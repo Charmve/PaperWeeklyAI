@@ -1,6 +1,8 @@
 # PaperWeeklyAI
 
 
+Study papers in the fields of computer vision, NLP, and machine learning algorithms every week.
+
 <p align="center">
   <a href="https://www.geekxh.com/"><img src="https://www.geekxh.com/blog_blue.svg" alt="css"></a>
   <a href="https://www.geekxh.com/"><img src="https://www.geekxh.com/trending.svg?label=html" alt="html"></a>
@@ -10,7 +12,6 @@
     紧跟前沿科研动态，每周研读论文！
 </p>
 
-Study papers in the fields of computer vision, NLP, and machine learning algorithms every week.
 
 <div align=center><img src="https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" height="260" width="260"></div>
 
@@ -26,7 +27,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
     <b>公众号菜单栏分类</b>
 </p>
 
-
+<br>
 
 ### 本项目包括
 
