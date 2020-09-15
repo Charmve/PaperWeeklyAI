@@ -10,11 +10,12 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
   <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/github/stars/geekxh/hello-algorithm.svg" alt="Statr"></a>
 </p>
 <p align="center">
-    这也许是东半球最好的编程学习类项目！
+    紧跟前沿论文动态，迈微研读！
 </p>
 
-<div align=center><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkRPVENNbXZlTGVPMW5Mc3M1d2Z2WUpZbjVXYXFpYjg5MVJ0RjR3SUtFdEdtZnVHOTRwb0tJWDFxdFUzVzZpYTIwQW4xMVYxSlVKTWljRkEvNjQw?x-oss-process=image/format,png" ></div><p>
+<div align=center><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkRPVENNbXZlTGVPMW5Mc3M1d2Z2WUpZbjVXYXFpYjg5MVJ0RjR3SUtFdEdtZnVHOTRwb0tJWDFxdFUzVzZpYTIwQW4xMVYxSlVKTWljRkEvNjQw?x-oss-process=image/format,png" ></div>
 
+<br>
 <div align=center size = 3><b>公众号菜单栏分类</b></div>
 
 
