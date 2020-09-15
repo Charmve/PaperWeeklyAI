@@ -45,7 +45,9 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 <br>
 
-注：文章链接还没编辑好，现在是测试链接。
+<p align="right">
+    注：文章链接还没编辑好，现在是测试链接。
+</p>
 
 
 
