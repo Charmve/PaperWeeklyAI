@@ -1,48 +1,67 @@
 # PaperWeeklyAI
 Study papers in the fields of computer vision, NLP, and machine learning algorithms every week.
 
-
-从今年三月份开始，我将开源的方向调整为机器学习、计算机视觉、深度学习、NLP、AI前沿技术动态的相关文章发布，从入门学习指导（我自己的机器学习路线总结，入过很多坑）到现在的顶会论文总结、前沿论文研读。公众号主页底部有菜单分类。
-
 <p align="center">
   <a href="https://www.geekxh.com/"><img src="https://www.geekxh.com/blog_blue.svg" alt="css"></a>
   <a href="https://www.geekxh.com/"><img src="https://www.geekxh.com/trending.svg?label=html" alt="html"></a>
   <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/github/stars/geekxh/hello-algorithm.svg" alt="Statr"></a>
 </p>
 <p align="center">
-    紧跟前沿论文动态，迈微研读！
+    紧跟前沿科研动态，每周研读论文！
 </p>
 
-<div align=center><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkRPVENNbXZlTGVPMW5Mc3M1d2Z2WUpZbjVXYXFpYjg5MVJ0RjR3SUtFdEdtZnVHOTRwb0tJWDFxdFUzVzZpYTIwQW4xMVYxSlVKTWljRkEvNjQw?x-oss-process=image/format,png" ></div>
+<div align=center><img src="https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" height="330" width="330"></div>
 
-<br>
-<div align=center size = 3><b>公众号菜单栏分类</b></div>
+<div align=center size = 3><b>△微信扫一扫，关注我</b></div>
+
+
+从今年三月份开始，我将开源的方向调整为机器学习、计算机视觉、深度学习、NLP、AI前沿技术动态的相关文章发布，从入门学习指导（我自己的机器学习路线总结，入过很多坑）到现在的顶会论文总结、前沿论文研读。公众号主页底部有菜单分类。</p>
+
+<div align=center><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkRPVENNbXZlTGVPMW5Mc3M1d2Z2WUpZbjVXYXFpYjg5MVJ0RjR3SUtFdEdtZnVHOTRwb0tJWDFxdFUzVzZpYTIwQW4xMVYxSlVKTWljRkEvNjQw?x-oss-process=image/format,png" ></div><p>
+
+<p align="center">
+    <b>公众号菜单栏分类</b>
+</p>
 
 
 
 这里也简单列个清单，发布太多了，其实应该早点做这样一个总结清单，方便大家阅读总结。碎片化知识学习，公众号文章阅读不及时总结，我们很多时候一定会过不了多久就会忘了学了什么。
-那我在这立个flag，每个月总结一次文集，同时及时更新菜单分类。
+那我在这立个flag，每个月总结一次文集，同时及时更新菜单分类。</p>
 
 ### 本项目包括
 
-| 👀 [NLP论文研读](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?3pVd) 
-| 📺 [计算机视觉论文](https://github.com/geekxh/hello-algorithm/tree/master/%E8%B6%85%E6%B8%85%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE100%E5%BC%A0) 
-| 🚀 [机器学习/深度学习理论篇](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87) 
-| 📡 [机器学习实战篇](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87) 
-| 📚 [AI进阶指南](https://github.com/geekxh/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC) 
-| 🎅 [迈微AI前沿](https://github.com/geekxh/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC) 
+| 👀 [<b>NLP论文研读</b>](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?3pVd) 
+| 📺 [<b>计算机视觉论文</b>](https://github.com/geekxh/hello-algorithm/tree/master/%E8%B6%85%E6%B8%85%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE100%E5%BC%A0) 
+| 🚀 [<b>机器学习/深度学习理论篇</b>](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87) 
+| 📡 [<b>机器学习实战篇</b>](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87) 
+| 📚 [<b>AI进阶指南</b>](https://github.com/geekxh/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC) 
+| 🎅 [<b>迈微AI前沿</b>](https://github.com/geekxh/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC) 
 | 
 
-| :--- | :---- | :--- | :--- |
-| 🍇 [面试：Java](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Java) | 🍉 [面试：Python](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Python) | 🍅 [面试：前端](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/%E5%89%8D%E7%AB%AF) | 🍄 [面试：Mysql](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Mysql) |
-| 🍖 [面试：架构师](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/%E6%9E%B6%E6%9E%84%E5%B8%88) | 🌽 [面试：C](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/C%26C%2B%2B) | 🍏 [面试：C++](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/C%26C%2B%2B) | 🍐 [面试：机器学习]() |
-| 👺 [专栏：学习os](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)| 🐒 [专栏：学习linux](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Linux) | 🎅 [专栏：学习mysql](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Mysql) | 📡 [专栏：学习网络](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C) |
-| 🆎 [专栏：学习设计模式](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)| 📝 [专栏：学习剑指offer](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E5%89%91%E6%8C%87offer) |  |  |
-
+| :--- | :---- | :--- | :--- | :--- | :--- |
+| 🍇 [面试：Java](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Java) 
+| 🍉 [面试：Python](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Python) 
+| 🍅 [面试：前端](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/%E5%89%8D%E7%AB%AF) 
+| 🍄 [面试：Mysql](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Mysql)
+|
+| 🍖 [面试：架构师](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/%E6%9E%B6%E6%9E%84%E5%B8%88) 
+| 🌽 [面试：C](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/C%26C%2B%2B) 
+| 🍏 [面试：C++](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/C%26C%2B%2B)
+| 🍐 [面试：机器学习]() |
+| 👺 [专栏：学习os](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+| 🐒 [专栏：学习linux](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Linux) 
+| 🎅 [专栏：学习mysql](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Mysql)
+| 📡 [专栏：学习网络](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C) 
+|
+| 🆎 [专栏：学习设计模式](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+| 📝 [专栏：学习剑指offer](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E5%89%91%E6%8C%87offer) 
+|  
+|  
+|
 
 
 ## NLP论文研读
-<div class="divcss5" color = "lightblue">（点击标题可跳转阅读）</div> 
+<div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div> 
 
 | Title | 推荐指数 | 推荐理由 | 时间 |
 |---|---|---|---|
@@ -58,7 +77,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 ## 计算机视觉论文
 
-<div class="divcss5" color = "lightblue">（点击标题可跳转阅读）</div>
+<div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;ImageNet一作、李飞飞高徒邓嘉获最佳论文奖，ECCV 2020奖项全公布
 
@@ -110,7 +129,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 ## 机器学习/深度学习理论
 
-<div class="divcss5" color = "lightblue">（点击标题可跳转阅读）</div>
+<div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)分类算法原理讲解
 
@@ -146,7 +165,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 ## 机器学习实战篇
 
-<div class="divcss5" color = "lightblue">（点击标题可跳转阅读）</div>
+<div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;机器学习实战 | 逻辑回归应用之“Kaggle房价预测”
 
@@ -172,7 +191,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 ## AI进阶指南
 
-<div class="divcss5" color = "lightblue">（点击标题可跳转阅读）</div>
+<div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;超赞的PyTorch资源大列表，GitHub标星9.4k+，中文版也上线了
 
@@ -198,7 +217,8 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 ## 迈微AI前沿
 
-<div class="divcss5" color = "lightblue">（点击标题可跳转阅读）</div>
+<div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;用反向传播算法解释大脑学习过程？Hinton 等人新研究登上 Nature 子刊
 
@@ -226,6 +246,6 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 想要获得更多精彩内容，请关注微信公众号:迈微电子研发社
 
-<div align=center><img src="https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" height="330" width="330"></div>
+<div align=center><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkNYNmZrQ0lCQzJTZWxvYjdrdUNQZVJtcXJYMmw5NHRoTE1Id0pWUENhSVVuR3pQMW5ncDVCMkRvRTVaUDFGSW01dm9OeUIycXMwOWcvNjQw?x-oss-process=image/format,png" ></div>
 
-<div align=center size = 3><b>△微信扫一扫，关注我</b></div>
+<div align=center size = 3><b>PaperWeeklyAI</b></div>
