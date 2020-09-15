@@ -10,14 +10,15 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
     紧跟前沿科研动态，每周研读论文！
 </p>
 
-<div align=center><img src="https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" height="330" width="330"></div>
+<div align=center><img src="https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" height="260" width="260"></div>
 
 <div align=center size = 3><b>△微信扫一扫，关注我</b></div>
-
+<br>
 
 从今年三月份开始，我将开源的方向调整为机器学习、计算机视觉、深度学习、NLP、AI前沿技术动态的相关文章发布，从入门学习指导（我自己的机器学习路线总结，入过很多坑）到现在的顶会论文总结、前沿论文研读。公众号主页底部有菜单分类。</p>
 
 <div align=center><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkRPVENNbXZlTGVPMW5Mc3M1d2Z2WUpZbjVXYXFpYjg5MVJ0RjR3SUtFdEdtZnVHOTRwb0tJWDFxdFUzVzZpYTIwQW4xMVYxSlVKTWljRkEvNjQw?x-oss-process=image/format,png" ></div><p>
+  
 
 <p align="center">
     <b>公众号菜单栏分类</b>
@@ -64,20 +65,21 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 <div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div> 
 
 | Title | 推荐指数 | 推荐理由 | 时间 |
-|---|---|---|---|
-| [01_李航等提出多粒度AMBERT模型，CLUE、GLUE上优于BERT，中文提升显著](http://www.geekxh.com) | 指导 |  |  |
-| [02_常识知识确能被捕获，西湖大学博士探究BERT如何做常识问答](http://www.geekxh.com/c99/hello.html)| 指导 |  |  |     
-| [01.图同构下等变、计算高效，韦灵思团队提出「自然图网络」消息传递方法](http://www.geekxh.com/1.0.数组系列/001.html) | 数组 |   |  |
-| [02.7 Papers & Radios | SIGIR 2020奖项揭晓；谷歌β-LASSO算法实现最强多层感知机？](http://www.geekxh.com/1.0.数组系列/002.html) | 数组 |   |   |
-| [03.文本深度表示模型——word2vec&doc2vec词向量模型](http://www.geekxh.com/1.0.数组系列/003.html) | 数组 |   |   |
-| [04.自媒体文章质量如何AI知道，这是微信的自动评估算法](http://www.geekxh.com/1.0.数组系列/004.html) | 数组 |  |  |
-| [05.图注意力网络一作：图表征学习在算法推理领域的研究进展](http://www.geekxh.com/1.0.数组系列/005.html) | 数组 |  |  |
-| [06.谷歌用算力爆了一篇论文，解答有关无限宽度网络的一切](http://www.geekxh.com/1.0.数组系列/006.html) | 数组 |  |    |
+|   --- |       ---|       ---|  ---|
+| [01.李航等提出多粒度AMBERT模型，CLUE、GLUE上优于BERT，中文提升显著](http://www.geekxh.com) | ⭐⭐⭐⭐⭐|  |  |
+| [02.常识知识确能被捕获，西湖大学博士探究BERT如何做常识问答](http://www.geekxh.com/c99/hello.html)| ⭐⭐⭐⭐ |  |  |     
+| [03.图同构下等变、计算高效，韦灵思团队提出「自然图网络」消息传递方法](http://www.geekxh.com/1.0.数组系列/001.html) | ⭐⭐⭐ |   |  |
+| [04.7 Papers & Radios | SIGIR 2020奖项揭晓；谷歌β-LASSO算法实现最强多层感知机？](http://www.geekxh.com/1.0.数组系列/002.html) | ⭐⭐⭐ |   |   |
+| [05.文本深度表示模型——word2vec&doc2vec词向量模型](http://www.geekxh.com/1.0.数组系列/003.html) | ⭐⭐ |   |   |
+| [06.自媒体文章质量如何AI知道，这是微信的自动评估算法](http://www.geekxh.com/1.0.数组系列/004.html) | ⭐⭐⭐⭐ |  |  |
+| [07.图注意力网络一作：图表征学习在算法推理领域的研究进展](http://www.geekxh.com/1.0.数组系列/005.html) | ⭐⭐⭐ |  |  |
+| [08.谷歌用算力爆了一篇论文，解答有关无限宽度网络的一切](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐ |  |    |
 
 
 ## 计算机视觉论文
 
 <div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;ImageNet一作、李飞飞高徒邓嘉获最佳论文奖，ECCV 2020奖项全公布
 
@@ -130,6 +132,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 ## 机器学习/深度学习理论
 
 <div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)分类算法原理讲解
 
@@ -166,6 +169,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 ## 机器学习实战篇
 
 <div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;机器学习实战 | 逻辑回归应用之“Kaggle房价预测”
 
@@ -192,6 +196,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 ## AI进阶指南
 
 <div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;超赞的PyTorch资源大列表，GitHub标星9.4k+，中文版也上线了
 
