@@ -118,7 +118,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | [05.机器学习算法之——逻辑回归（Logistic Regression）](http://www.geekxh.com/1.0.数组系列/003.html) | ⭐⭐⭐ |   |   |
 | [06.暴力方法将成过去？UC伯克利等新研究返璞归真，探索网络的本质](http://www.geekxh.com/1.0.数组系列/004.html) | ⭐⭐⭐⭐ |  |  |
 | [07.机器学习中的最优化算法总结](http://www.geekxh.com/1.0.数组系列/005.html) | ⭐⭐⭐ |  |  |
-| [08.超越标准 GNN ！DeepMind、谷歌提出图匹配网络| ICML最新论文](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐ |  |    |
+| [08.超越标准 GNN ！DeepMind、谷歌提出图匹配网络(ICML最新论文)](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐ |  |    |
 | [09.机器学习算法常用评价指标总结](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐⭐ |  |    |
 | [10.损失函数的可视化：浅论模型的参数空间与正则](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐ |  |    |
 | [11.深度学习中“消失的梯度”](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐ |  |    |
@@ -153,7 +153,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | [01.超赞的PyTorch资源大列表，GitHub标星9.4k+，中文版也上线了](http://www.geekxh.com) | ⭐⭐⭐⭐⭐|  |  |
 | [02.GitHub 上有哪些适合新手跟进的优质项目？](http://www.geekxh.com/c99/hello.html)| ⭐⭐⭐⭐⭐ |  |  |     
 | [03.实至名归！NumPy 官方早有中文教程，结合深度学习，还有防脱发指南](http://www.geekxh.com/1.0.数组系列/001.html) | ⭐⭐⭐⭐ |   |  |
-| [04.GitHub标星23k+，从零开始的深度学习实用教程 | PyTorch官方推荐](http://www.geekxh.com/1.0.数组系列/002.html) | ⭐⭐⭐ |   |   |
+| [04.GitHub标星23k+，从零开始的深度学习实用教程「PyTorch官方推荐」](http://www.geekxh.com/1.0.数组系列/002.html) | ⭐⭐⭐ |   |   |
 | [05.吴恩达关于机器学习职业生涯以及阅读论文的一些建议（附AI领域必读的10篇论文PDF）](http://www.geekxh.com/1.0.数组系列/003.html) | ⭐⭐⭐⭐ |   |   |
 | [06.有了这些珍藏的实用工具/学习网站，自学更快乐！](http://www.geekxh.com/1.0.数组系列/004.html) | ⭐⭐⭐⭐⭐ |  |  |
 | [07.你想要的高清电子书都在这里！免费下载！](http://www.geekxh.com/1.0.数组系列/005.html) | ⭐⭐⭐ |  |  |
@@ -189,4 +189,5 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 <div align=center><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkNYNmZrQ0lCQzJTZWxvYjdrdUNQZVJtcXJYMmw5NHRoTE1Id0pWUENhSVVuR3pQMW5ncDVCMkRvRTVaUDFGSW01dm9OeUIycXMwOWcvNjQw?x-oss-process=image/format,png" ></div>
 <br>
 <div align=center size = 3><b>PaperWeeklyAI</b></div>
+<br>
 <div align=center>△微信扫一扫，关注我</div>
