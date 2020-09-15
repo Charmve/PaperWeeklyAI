@@ -1,5 +1,5 @@
 # PaperWeeklyAI
-Study papers in the fields of computer vision, NLP, and machine learning algorithms every week.
+
 
 <p align="center">
   <a href="https://www.geekxh.com/"><img src="https://www.geekxh.com/blog_blue.svg" alt="css"></a>
@@ -9,6 +9,8 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 <p align="center">
     紧跟前沿科研动态，每周研读论文！
 </p>
+
+<p>Study papers in the fields of computer vision, NLP, and machine learning algorithms every week.<\p>
 
 <div align=center><img src="https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" height="260" width="260"></div>
 
@@ -36,8 +38,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | 🚀 [<b>机器学习/深度学习理论篇</b>](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87) 
 | 📡 [<b>机器学习实战篇</b>](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87) 
 | 📚 [<b>AI进阶指南</b>](https://github.com/geekxh/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC) 
-| 🎅 [<b>迈微AI前沿</b>](https://github.com/geekxh/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC) 
-| 
+| 🎅 [<b>迈微AI前沿</b>](https://github.com/geekxh/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC) | 
 
 | :--- | :---- | :--- | :--- | :--- | :--- |
 | 🍇 [面试：Java](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Java) 
@@ -45,24 +46,27 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | 🍅 [面试：前端](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/%E5%89%8D%E7%AB%AF) 
 | 🍄 [面试：Mysql](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Mysql)
 |
-| 🍖 [面试：架构师](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/%E6%9E%B6%E6%9E%84%E5%B8%88) 
+| 🍖 [面试：架构师](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/%E6%9E%B6%E6%9E%84%E5%B8%88) |
+
 | 🌽 [面试：C](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/C%26C%2B%2B) 
 | 🍏 [面试：C++](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/C%26C%2B%2B)
-| 🍐 [面试：机器学习]() |
+| 🍐 [面试：机器学习]() 
+|
 | 👺 [专栏：学习os](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
-| 🐒 [专栏：学习linux](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Linux) 
+| 🐒 [专栏：学习linux](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Linux) |
+
 | 🎅 [专栏：学习mysql](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Mysql)
 | 📡 [专栏：学习网络](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C) 
 |
 | 🆎 [专栏：学习设计模式](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 | 📝 [专栏：学习剑指offer](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E5%89%91%E6%8C%87offer) 
-|  
-|  
-|
+|  |  
+
 
 
 ## NLP论文研读
 <div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div> 
+<br>
 
 | Title | 推荐指数 | 推荐理由 | 时间 |
 |   --- |       ---|       ---|  ---|
@@ -249,7 +253,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 <br>
 
-想要获得更多精彩内容，请关注微信公众号:迈微电子研发社
+想要获得更多精彩内容，请关注微信公众号：迈微电子研发社
 
 <div align=center><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkNYNmZrQ0lCQzJTZWxvYjdrdUNQZVJtcXJYMmw5NHRoTE1Id0pWUENhSVVuR3pQMW5ncDVCMkRvRTVaUDFGSW01dm9OeUIycXMwOWcvNjQw?x-oss-process=image/format,png" ></div>
 
