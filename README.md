@@ -14,12 +14,12 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 <div align=center><img src="https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" height="260" width="260"></div>
 
-<div align=center size = 3><b>△微信扫一扫，关注我</b></div>
+
 <br>
 
 从今年三月份开始，我将开源的方向调整为机器学习、计算机视觉、深度学习、NLP、AI前沿技术动态的相关文章发布，从入门学习指导（我自己的机器学习路线总结，入过很多坑）到现在的顶会论文总结、前沿论文研读。公众号主页底部有菜单分类。
 
-<div align=center><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkRPVENNbXZlTGVPMW5Mc3M1d2Z2WUpZbjVXYXFpYjg5MVJ0RjR3SUtFdEdtZnVHOTRwb0tJWDFxdFUzVzZpYTIwQW4xMVYxSlVKTWljRkEvNjQw?x-oss-process=image/format,png" ></div>
+<div align=center><img src="https://github.com/ChromeWei/PaperWeeklyAI/blob/master/MaiweiAI-com.png?raw=true" ></div>
   
 
 <p align="center">
@@ -27,8 +27,6 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 </p>
 
 
-这里也简单列个清单，发布太多了，其实应该早点做这样一个总结清单，方便大家阅读总结。碎片化知识学习，公众号文章阅读不及时总结，我们很多时候一定会过不了多久就会忘了学了什么。
-那我在这立个flag，每个月总结一次文集，同时及时更新菜单分类。
 
 ### 本项目包括
 
@@ -62,7 +60,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | 📝 [专栏：学习剑指offer](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E5%89%91%E6%8C%87offer) 
 |  |  
 
-
+<br>
 
 ## NLP论文研读
 <div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div> 
@@ -79,6 +77,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | [07.图注意力网络一作：图表征学习在算法推理领域的研究进展](http://www.geekxh.com/1.0.数组系列/005.html) | ⭐⭐⭐ |  |  |
 | [08.谷歌用算力爆了一篇论文，解答有关无限宽度网络的一切](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐ |  |    |
 
+<br>
 
 ## 计算机视觉论文
 
@@ -90,7 +89,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | [01.ImageNet一作、李飞飞高徒邓嘉获最佳论文奖，ECCV 2020奖项全公布](http://www.geekxh.com) | ⭐⭐⭐⭐⭐|  |  |
 | [02.支付宝夺冠CVPR 细粒度视觉分类挑战赛：数据增强+知识蒸馏，效果大幅提升](http://www.geekxh.com/c99/hello.html)| ⭐⭐⭐⭐⭐ |  |  |     
 | [03.李飞飞团队最新研究，真实场景中识别物体具体属性，连表面纹理都识别出来了](http://www.geekxh.com/1.0.数组系列/001.html) | ⭐⭐⭐⭐ |   |  |
-| [04.CVPR2020 | 真实场景中的玻璃检测，有趣的应用](http://www.geekxh.com/1.0.数组系列/002.html) | ⭐⭐⭐⭐ |   |   |
+| [04.CVPR2020：真实场景中的玻璃检测，有趣的应用](http://www.geekxh.com/1.0.数组系列/002.html) | ⭐⭐⭐⭐ |   |   |
 | [05.表面缺陷检测数据集汇总及其相关项目推荐](http://www.geekxh.com/1.0.数组系列/003.html) | ⭐⭐⭐⭐⭐ |   |   |
 | [06.检测、重识别为啥很难一步到位？华中科技大、微软深入挖掘，新方法实现新SOTA](http://www.geekxh.com/1.0.数组系列/004.html) | ⭐⭐⭐⭐ |  |  |
 | [07.港中文周博磊团队最新研究：无监督条件下GAN潜在语义识别指南](http://www.geekxh.com/1.0.数组系列/005.html) | ⭐⭐⭐ |  |  |
@@ -102,6 +101,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | [13.CVPR 2020最佳学生论文分享回顾：通过二叉空间分割（BSP）生成紧凑3D网格](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐ |  |    |
 | [14.卷积神经网络必读的40篇经典论文，包含检测/识别/分类/分割多个领域](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐⭐ |  |    |
 
+<br>
 
 ## 机器学习/深度学习理论
 
@@ -123,6 +123,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | [11.深度学习中“消失的梯度”](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐ |  |    |
 | [12.预、自训练之争：谷歌说预训练虽火，但在标注数据上自训练更有效](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐ |  |    |
 
+<br>
 
 ## 机器学习实战篇
 <div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
@@ -130,17 +131,17 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 | Title | 推荐指数 | 推荐理由 | 时间 |
 |   --- |       ---|       ---|  ---|
-| [01.机器学习实战 | 逻辑回归应用之“Kaggle房价预测”](http://www.geekxh.com) | ⭐⭐⭐⭐|  |  |
-| [02.机器学习实战 | 逻辑回归应用之“Kaggle泰坦尼克之灾”](http://www.geekxh.com/c99/hello.html)| ⭐⭐⭐⭐⭐ |  |  |     
-| [03.PyTorch实战 | 使用卷积神经网络对CIFAR10图片进行分类（附源码）](http://www.geekxh.com/1.0.数组系列/001.html) | ⭐⭐⭐⭐ |   |  |
-| [04.表情识别FER | 基于深度学习的人脸表情识别系统（Keras）](http://www.geekxh.com/1.0.数组系列/002.html) | ⭐⭐⭐ |   |   |
+| [01.机器学习实战：逻辑回归应用之“Kaggle房价预测”](http://www.geekxh.com) | ⭐⭐⭐⭐|  |  |
+| [02.机器学习实战：逻辑回归应用之“Kaggle泰坦尼克之灾”](http://www.geekxh.com/c99/hello.html)| ⭐⭐⭐⭐⭐ |  |  |     
+| [03.PyTorch实战：使用卷积神经网络对CIFAR10图片进行分类（附源码）](http://www.geekxh.com/1.0.数组系列/001.html) | ⭐⭐⭐⭐ |   |  |
+| [04.表情识别FER：基于深度学习的人脸表情识别系统（Keras）](http://www.geekxh.com/1.0.数组系列/002.html) | ⭐⭐⭐ |   |   |
 | [05.CVPR 2020夜间行人检测挑战赛两冠一亚：DeepBlueAI团队获胜方案解读](http://www.geekxh.com/1.0.数组系列/003.html) | ⭐⭐⭐ |   |   |
 | [06.本科生晋升GM记录：Kaggle比赛进阶技巧分享](http://www.geekxh.com/1.0.数组系列/004.html) | ⭐⭐⭐⭐ |  |  |
 | [07.机器学习第一步，这是一篇手把手的随机森林入门实战](http://www.geekxh.com/1.0.数组系列/005.html) | ⭐⭐⭐ |  |  |
 | [08.为什么你的模型效果这么差，深度学习调参有哪些技巧？识](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐⭐ |  |    |
 | [09.你还在手动调参？自动化深度学习了解一下！(CVPR2020 Tutorial)](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐⭐ |  |    |
 
-
+<br>
 
 ## AI进阶指南
 <div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
@@ -155,9 +156,10 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | [05.吴恩达关于机器学习职业生涯以及阅读论文的一些建议（附AI领域必读的10篇论文PDF）](http://www.geekxh.com/1.0.数组系列/003.html) | ⭐⭐⭐⭐ |   |   |
 | [06.有了这些珍藏的实用工具/学习网站，自学更快乐！](http://www.geekxh.com/1.0.数组系列/004.html) | ⭐⭐⭐⭐⭐ |  |  |
 | [07.你想要的高清电子书都在这里！免费下载！](http://www.geekxh.com/1.0.数组系列/005.html) | ⭐⭐⭐ |  |  |
-| [08.机器学习进阶经典著作推荐 | 提供免费下载](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐⭐ |  |    |
+| [08.机器学习进阶经典著作推荐(提供免费下载)](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐⭐ |  |    |
 | [09.机器学习/数据科学从入门到精通：必经的5个阶段，你处于那个阶段？](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐ |  |    |
 
+<br>
 
 ## 迈微AI前沿(精选)
 
@@ -184,5 +186,6 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 想要获得更多精彩内容，请关注微信公众号：迈微电子研发社
 
 <div align=center><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkNYNmZrQ0lCQzJTZWxvYjdrdUNQZVJtcXJYMmw5NHRoTE1Id0pWUENhSVVuR3pQMW5ncDVCMkRvRTVaUDFGSW01dm9OeUIycXMwOWcvNjQw?x-oss-process=image/format,png" ></div>
-
+<br>
 <div align=center size = 3><b>PaperWeeklyAI</b></div>
+<div align=center>△微信扫一扫，关注我</div>
