@@ -9,4 +9,8 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: ['https://www.buymeacoffee.com/Charmve', 'https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg']# Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: [<a href="https://www.buymeacoffee.com/Charmve" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
+  </a>, <a href= "https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
+  </a>]# Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
