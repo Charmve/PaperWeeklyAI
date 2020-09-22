@@ -94,7 +94,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 | Title | 推荐指数 | 推荐理由 | 时间 |
 |   --- |       ---|       ---|  ---|
-| [01.ImageNet一作、李飞飞高徒邓嘉获最佳论文奖，ECCV 2020奖项全公布](http://www.geekxh.com) | ⭐⭐⭐⭐⭐|  |  |
+| [01.ImageNet一作、李飞飞高徒邓嘉获最佳论文奖，ECCV 2020奖项全公布](https://github.com/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/01_NLP%E8%AE%BA%E6%96%87%E7%A0%94%E8%AF%BB/01_%E6%9D%8E%E8%88%AA%E7%AD%89%E6%8F%90%E5%87%BA%E5%A4%9A%E7%B2%92%E5%BA%A6AMBERT%E6%A8%A1%E5%9E%8B%EF%BC%8CCLUE%E3%80%81GLUE%E4%B8%8A%E4%BC%98%E4%BA%8EBERT%EF%BC%8C%E4%B8%AD%E6%96%87%E6%8F%90%E5%8D%87%E6%98%BE%E8%91%97.md) | ⭐⭐⭐⭐⭐|  |  |
 | [02.支付宝夺冠CVPR 细粒度视觉分类挑战赛：数据增强+知识蒸馏，效果大幅提升](http://www.geekxh.com/c99/hello.html)| ⭐⭐⭐⭐⭐ |  |  |     
 | [03.李飞飞团队最新研究，真实场景中识别物体具体属性，连表面纹理都识别出来了](http://www.geekxh.com/1.0.数组系列/001.html) | ⭐⭐⭐⭐ |   |  |
 | [04.CVPR2020：真实场景中的玻璃检测，有趣的应用](http://www.geekxh.com/1.0.数组系列/002.html) | ⭐⭐⭐⭐ |   |   |
