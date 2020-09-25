@@ -95,19 +95,19 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | Title | 推荐指数 | 推荐理由 | 时间 |
 |   --- |       ---|       ---|  ---|
 | [01.ImageNet一作、李飞飞高徒邓嘉获最佳论文奖，ECCV 2020奖项全公布](https://github.com/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/01_NLP%E8%AE%BA%E6%96%87%E7%A0%94%E8%AF%BB/01_%E6%9D%8E%E8%88%AA%E7%AD%89%E6%8F%90%E5%87%BA%E5%A4%9A%E7%B2%92%E5%BA%A6AMBERT%E6%A8%A1%E5%9E%8B%EF%BC%8CCLUE%E3%80%81GLUE%E4%B8%8A%E4%BC%98%E4%BA%8EBERT%EF%BC%8C%E4%B8%AD%E6%96%87%E6%8F%90%E5%8D%87%E6%98%BE%E8%91%97.md) | ⭐⭐⭐⭐⭐|  |  |
-| [02.支付宝夺冠CVPR 细粒度视觉分类挑战赛：数据增强+知识蒸馏，效果大幅提升](https://github.com/Charmve/PaperWeeklyAI)| ⭐⭐⭐⭐⭐ |  |  |     
-| [03.李飞飞团队最新研究，真实场景中识别物体具体属性，连表面纹理都识别出来了](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐⭐ |   |  |
-| [04.CVPR2020：真实场景中的玻璃检测，有趣的应用](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐⭐ |   |   |
-| [05.表面缺陷检测数据集汇总及其相关项目推荐](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐⭐⭐ |   |   |
-| [06.检测、重识别为啥很难一步到位？华中科技大、微软深入挖掘，新方法实现新SOTA](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐⭐ |  |  |
-| [07.港中文周博磊团队最新研究：无监督条件下GAN潜在语义识别指南](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |  |  |
-| [08.一张“静态”图实现3D人脸建模！这是中科院博士生入选ECCV的新研究(开源)](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |  |    |
+| [02.支付宝夺冠CVPR 细粒度视觉分类挑战赛：数据增强+知识蒸馏，效果大幅提升](https://github.com/Charmve/Mirror-Glass-Detection)| ⭐⭐⭐⭐⭐ |  |  |     
+| [03.李飞飞团队最新研究，真实场景中识别物体具体属性，连表面纹理都识别出来了](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐⭐ |   |  |
+| [04.CVPR2020：真实场景中的玻璃检测，有趣的应用](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐⭐ |   |   |
+| [05.表面缺陷检测数据集汇总及其相关项目推荐](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐⭐⭐ |   |   |
+| [06.检测、重识别为啥很难一步到位？华中科技大、微软深入挖掘，新方法实现新SOTA](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐⭐ |  |  |
+| [07.港中文周博磊团队最新研究：无监督条件下GAN潜在语义识别指南](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |  |
+| [08.一张“静态”图实现3D人脸建模！这是中科院博士生入选ECCV的新研究(开源)](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    |
 | [09.ECCV 2020:再见，迁移学习？可解释和泛化的行人再辨识](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |  |    |
-| [10.检测、重识别为啥很难一步到位？华中科技大、微软深入挖掘，新方法实现新SOTA](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |  |    ||    |
-| [11.无需标注数据集，自监督注意力机制就能搞定目标跟踪](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐⭐ |  |    |
-| [12.准确检测DeepFake视频，阿里新算法从多个人物中识别被篡改的人脸](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |  |    |
-| [13.CVPR 2020最佳学生论文分享回顾：通过二叉空间分割（BSP）生成紧凑3D网格](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |  |    |
-| [14.卷积神经网络必读的40篇经典论文，包含检测/识别/分类/分割多个领域](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐⭐ |  |    |
+| [10.检测、重识别为啥很难一步到位？华中科技大、微软深入挖掘，新方法实现新SOTA](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    ||    |
+| [11.无需标注数据集，自监督注意力机制就能搞定目标跟踪](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐⭐ |  |    |
+| [12.准确检测DeepFake视频，阿里新算法从多个人物中识别被篡改的人脸](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    |
+| [13.CVPR 2020最佳学生论文分享回顾：通过二叉空间分割（BSP）生成紧凑3D网格](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    |
+| [14.卷积神经网络必读的40篇经典论文，包含检测/识别/分类/分割多个领域](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐⭐ |  |    |
 
 <br>
 
@@ -146,8 +146,8 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | [05.CVPR 2020夜间行人检测挑战赛两冠一亚：DeepBlueAI团队获胜方案解读](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |   |   |
 | [06.本科生晋升GM记录：Kaggle比赛进阶技巧分享](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐⭐ |  |  |
 | [07.机器学习第一步，这是一篇手把手的随机森林入门实战](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |  |  |
-| [08.为什么你的模型效果这么差，深度学习调参有哪些技巧？识](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐⭐ |  |    |
-| [09.你还在手动调参？自动化深度学习了解一下！(CVPR2020 Tutorial)](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐⭐ |  |    |
+| [08.为什么你的模型效果这么差，深度学习调参有哪些技巧？识](https://github.com/Charmve) | ⭐⭐⭐⭐ |  |    |
+| [09.你还在手动调参？自动化深度学习了解一下！(CVPR2020 Tutorial)](https://github.com/Charmve) | ⭐⭐⭐⭐ |  |    |
 
 <br>
 
@@ -157,15 +157,15 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 | Title | 推荐指数 | 推荐理由 | 时间 |
 |   --- |       ---|       ---|  ---|
-| [01.超赞的PyTorch资源大列表，GitHub标星9.4k+，中文版也上线了](http://www.geekxh.com) | ⭐⭐⭐⭐⭐|  |  |
-| [02.GitHub 上有哪些适合新手跟进的优质项目？](http://www.geekxh.com/c99/hello.html)| ⭐⭐⭐⭐⭐ |  |  |     
-| [03.实至名归！NumPy 官方早有中文教程，结合深度学习，还有防脱发指南](http://www.geekxh.com/1.0.数组系列/001.html) | ⭐⭐⭐⭐ |   |  |
-| [04.GitHub标星23k+，从零开始的深度学习实用教程「PyTorch官方推荐」](http://www.geekxh.com/1.0.数组系列/002.html) | ⭐⭐⭐ |   |   |
-| [05.吴恩达关于机器学习职业生涯以及阅读论文的一些建议（附AI领域必读的10篇论文PDF）](http://www.geekxh.com/1.0.数组系列/003.html) | ⭐⭐⭐⭐ |   |   |
-| [06.有了这些珍藏的实用工具/学习网站，自学更快乐！](http://www.geekxh.com/1.0.数组系列/004.html) | ⭐⭐⭐⭐⭐ |  |  |
-| [07.你想要的高清电子书都在这里！免费下载！](http://www.geekxh.com/1.0.数组系列/005.html) | ⭐⭐⭐ |  |  |
-| [08.机器学习进阶经典著作推荐(提供免费下载)](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐⭐ |  |    |
-| [09.机器学习/数据科学从入门到精通：必经的5个阶段，你处于那个阶段？](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐ |  |    |
+| [01.超赞的PyTorch资源大列表，GitHub标星9.4k+，中文版也上线了](https://github.com/Charmve) | ⭐⭐⭐⭐⭐|  |  |
+| [02.GitHub 上有哪些适合新手跟进的优质项目？](https://github.com/Charmve)| ⭐⭐⭐⭐⭐ |  |  |     
+| [03.实至名归！NumPy 官方早有中文教程，结合深度学习，还有防脱发指南](https://github.com/Charmve) | ⭐⭐⭐⭐ |   |  |
+| [04.GitHub标星23k+，从零开始的深度学习实用教程「PyTorch官方推荐」](https://github.com/Charmve) | ⭐⭐⭐ |   |   |
+| [05.吴恩达关于机器学习职业生涯以及阅读论文的一些建议（附AI领域必读的10篇论文PDF）](https://github.com/Charmve) | ⭐⭐⭐⭐ |   |   |
+| [06.有了这些珍藏的实用工具/学习网站，自学更快乐！](https://github.com/Charmve) | ⭐⭐⭐⭐⭐ |  |  |
+| [07.你想要的高清电子书都在这里！免费下载！](https://github.com/Charmve) | ⭐⭐⭐ |  |  |
+| [08.机器学习进阶经典著作推荐(提供免费下载)](https://github.com/Charmve) | ⭐⭐⭐⭐ |  |    |
+| [09.机器学习/数据科学从入门到精通：必经的5个阶段，你处于那个阶段？](https://github.com/Charmve) | ⭐⭐⭐ |  |    |
 
 <br>
 
@@ -176,17 +176,17 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 | Title | 推荐指数 | 推荐理由 | 时间 |
 |   --- |       ---|       ---|  ---|
-| [01.用反向传播算法解释大脑学习过程？Hinton等人新研究登上Nature子刊](http://www.geekxh.com) | ⭐⭐⭐⭐|  |  |
-| [02.工作007，8天完成688次实验，独立发现催化剂：机器人研究员登上Nature封面](http://www.geekxh.com/c99/hello.html)| ⭐⭐⭐⭐ |  |  |     
-| [03.《Nature》子刊：不仅是语言，机器翻译还能把脑波「翻译」成文字](http://www.geekxh.com/1.0.数组系列/001.html) | ⭐⭐⭐ |   |  |
-| [04.普林、DeepMind新研究：结合深度学习和符号回归，从深度模型中看见宇宙](http://www.geekxh.com/1.0.数组系列/002.html) | ⭐⭐⭐ |   |   |
-| [05.DeepMind、哈佛造出了 AI「小白鼠」，从跑、跳、觅食、击球窥探神经网络的奥秘](http://www.geekxh.com/1.0.数组系列/003.html) | ⭐⭐⭐ |   |   |
-| [06.马斯克放话：6个月内公测“卫星互联网”！颠覆5G的将不是6G](http://www.geekxh.com/1.0.数组系列/004.html) | ⭐⭐ |  |  |
-| [07.谷歌量子计算突破登Science封面！首次对化学反应进行量子模拟](http://www.geekxh.com/1.0.数组系列/005.html) | ⭐⭐⭐ |  |  |
-| [08.马斯克活猪脑机接口试验成功！多芯片植入，硬币大小，实时读取脑电波](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐ |  |    |
-| [10.Science：AI领域那么多引人注目的「进展」，竟是无用功](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐⭐ |  |    |
-| [11.改改Python代码，运行速度还能提升6万倍，Science：先别想摩尔定律了](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐ |  |    |
-| [12.量子计算机遇到新对手？随机磁电路，因数分解更厉害](http://www.geekxh.com/1.0.数组系列/006.html) | ⭐⭐⭐⭐ |  |    |
+| [01.用反向传播算法解释大脑学习过程？Hinton等人新研究登上Nature子刊](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐⭐|  |  |
+| [02.工作007，8天完成688次实验，独立发现催化剂：机器人研究员登上Nature封面](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control)| ⭐⭐⭐⭐ |  |  |     
+| [03.《Nature》子刊：不仅是语言，机器翻译还能把脑波「翻译」成文字](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐ |   |  |
+| [04.普林、DeepMind新研究：结合深度学习和符号回归，从深度模型中看见宇宙](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐ |   |   |
+| [05.DeepMind、哈佛造出了 AI「小白鼠」，从跑、跳、觅食、击球窥探神经网络的奥秘](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐ |   |   |
+| [06.马斯克放话：6个月内公测“卫星互联网”！颠覆5G的将不是6G](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐ |  |  |
+| [07.谷歌量子计算突破登Science封面！首次对化学反应进行量子模拟](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐ |  |  |
+| [08.马斯克活猪脑机接口试验成功！多芯片植入，硬币大小，实时读取脑电波](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐ |  |    |
+| [10.Science：AI领域那么多引人注目的「进展」，竟是无用功](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐⭐ |  |    |
+| [11.改改Python代码，运行速度还能提升6万倍，Science：先别想摩尔定律了](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐ |  |    |
+| [12.量子计算机遇到新对手？随机磁电路，因数分解更厉害](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐⭐ |  |    |
 
 
 <br>
