@@ -1,4 +1,4 @@
-# Image Segmentation Paper Top 10
+# Image Segmentation Paper Top10
 
 Curated Top 10 ImgSegmentation papers, including paper code and datasets. ⚙️
 
@@ -19,15 +19,18 @@ Curated Top 10 ImgSegmentation papers, including paper code and datasets. ⚙️
 被引频次：1839
 
 作者：Kaiming He，Georgia Gkioxari，Piotr Dollar，Ross Girshick.
+
 发布信息: 2017，16th IEEE International Conference on Computer Vision (ICCV)
+
 论文：https://arxiv.org/abs/1703.06870
+
 代码：https://github.com/facebookresearch/Detectron
 
 Mask R-CNN作为非常经典的实例分割（Instance segmentation）算法，在图像分割领域可谓“家喻户晓”。Mask R-CNN不仅在实例分割任务中表现优异，还是一个非常灵活的框架，可以通过增加不同的分支完成目标分类、目标检测、语义分割、实例分割、人体姿势识别等多种不同的任务。
 
 <div align=center>
-  <img src="https://img-blog.csdnimg.cn/img_convert/9ae64d9feaa76ae2ad79cf05916b9224.png">
-  <img src="https://img-blog.csdnimg.cn/img_convert/96e1f619c273730854c0f370a3426794.png">
+  <img src="https://img-blog.csdnimg.cn/img_convert/9ae64d9feaa76ae2ad79cf05916b9224.png"><br>
+  <img src="https://img-blog.csdnimg.cn/img_convert/96e1f619c273730854c0f370a3426794.png"><br>
 </div>
 
 <br>
@@ -40,15 +43,18 @@ SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
 被引频次：1937
 
 作者: Vijay Badrinarayanan，Alex Kendall，Roberto Cipolla
+
 发布信息：2015，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+
 论文：https://arxiv.org/pdf/1511.00561.pdf
+
 代码：https://github.com/aizawan/segnet
 
 SegNet是用于进行像素级别图像分割的全卷积网络。SegNet与FCN的思路较为相似，区别则在于Encoder中Pooling和Decoder的Upsampling使用的技术。Decoder进行上采样的方式是Segnet的亮点之一，SegNet主要用于场景理解应用，需要在进行inference时考虑内存的占用及分割的准确率。同时，Segnet的训练参数较少，可以用SGD进行end-to-end训练。
 
 <div align=center>
-  <img src="https://img-blog.csdnimg.cn/img_convert/be44b807c14405dffdb58aa34d853948.png">
-  <img src="https://img-blog.csdnimg.cn/img_convert/263f01b9fd4b04b8878e484703793adb.png">
+  <img src="https://img-blog.csdnimg.cn/img_convert/be44b807c14405dffdb58aa34d853948.png"><br>
+  <img src="https://img-blog.csdnimg.cn/img_convert/263f01b9fd4b04b8878e484703793adb.png"><br>
 </div>
 <br>
 
@@ -60,20 +66,25 @@ DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convol
 被引频次：2160
 
 作者: Chen Liang-Chieh，Papandreou George，Kokkinos Iasonas等.
+
 发布信息：2018，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
 
 DeepLabv1：https://arxiv.org/pdf/1412.7062v3.pdf
+
 DeepLabv2：https://arxiv.org/pdf/1606.00915.pdf
+
 DeepLabv3：https://arxiv.org/pdf/1706.05587.pdf
+
 DeepLabv3+：https://arxiv.org/pdf/1802.02611.pdf
+
 代码：https://github.com/tensorflow/models/tree/master/research/deeplab
 
 DeepLab系列采用了Dilated/Atrous Convolution的方式扩展感受野，获取更多的上下文信息，避免了DCNN中重复最大池化和下采样带来的分辨率下降问题。2018年，Chen等人发布Deeplabv3+，使用编码器-解码器架构。DeepLabv3+在2012年pascal VOC挑战赛中获得89.0%的mIoU分数。
 
 <div align=center>
-  <img src="https://img-blog.csdnimg.cn/img_convert/d034d44bca50bee71d108a9698f70de9.png">
-  <img src="https://img-blog.csdnimg.cn/img_convert/1ba1f9886fdec067b72871607bb49701.png">
-  <img src="https://img-blog.csdnimg.cn/img_convert/fb7ae61ce4a0bf5dc593ae0b1ef6a4d3.png"> 
+  <img src="https://img-blog.csdnimg.cn/img_convert/d034d44bca50bee71d108a9698f70de9.png"><br>
+  <img src="https://img-blog.csdnimg.cn/img_convert/1ba1f9886fdec067b72871607bb49701.png"><br>
+  <img src="https://img-blog.csdnimg.cn/img_convert/fb7ae61ce4a0bf5dc593ae0b1ef6a4d3.png"><br>
 DeepLabv3+
 </div>
 <br>
@@ -120,7 +131,9 @@ SLIC Superpixels Compared to State-of-the-Art Superpixel Methods
 被引频次：4168
 
 作者: Radhakrishna Achanta，Appu Shaji，Kevin Smith，Aurelien Lucchi，Pascal Fua，Sabine Susstrunk.
+
 发布信息：2012，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+
 论文和代码：https://ivrlwww.epfl.ch/supplementary_material/RK_SLICSuperpixels/index.html
 
 SLIC 算法将K-means 算法用于超像素聚类，是一种思想简单、实现方便的算法，SLIC算法能生成紧凑、近似均匀的超像素，在运算速度，物体轮廓保持、超像素形状方面具有较高的综合评价，比较符合人们期望的分割效果。
@@ -138,9 +151,11 @@ U-Net: Convolutional Networks for Biomedical Image Segmentation
 被引频次：6920
 
 作者: Ronneberger Olaf，Fischer Philipp，Brox Thomas
+
 发布信息：2015，18th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 
 论文：https://arxiv.org/pdf/1505.04597.pdf
+
 代码：https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 
 U-Net是一种基于深度学习的图像语义分割方法，在医学图像分割领域表现尤为优异。它基于FCNs做出改进，相较于FCN多尺度信息更加丰富，同时适合超大图像分割。作者采用数据增强（data augmentation），通过使用在粗糙的3*3点阵上的随机取代向量来生成平缓的变形，解决了可获得的训练数据很少的问题。并使用加权损失（weighted loss）以解决对于同一类的连接的目标分割。
@@ -158,6 +173,7 @@ Mean shift: A robust approach toward feature space analysis
 被引频次：6996
 
 作者: Comaniciu D，Meer P
+
 发布信息：2002，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
 
 论文：https://courses.csail.mit.edu/6.869/handouts/PAMIMeanshift.pdf
@@ -173,6 +189,7 @@ Normalized cuts and image segmentation
 被引频次：8056
 
 作者：Shi JB，Malik J
+
 发布信息：2000，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE 论文：https://ieeexplore.ieee.org/abstract/document/1000236
 
 论文：https://pdfs.semanticscholar.org/d5d0/2b093162096005834ee22def530de6c1f7eb.pdf
@@ -192,14 +209,17 @@ Fully Convolutional Networks for Semantic Segmentation
 被引频次：8170
 
 作者: Long Jonathan，Shelhamer Evan，Darrell Trevor
+
 发布信息：2015，IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+
 论文：https://arxiv.org/abs/1411.4038
+
 代码：https://github.com/shelhamer/fcn.berkeleyvision.org
 
 FCN是图像分割领域里程碑式论文。作为语义分割的开山之作，FCN是当之无愧的TOP1。它提出了全卷积网络(FCN)的概念，针对语义分割训练了一个端到端，点对点的网络，它包含了三个CNN核心思想：
 
-（1）不含全连接层(fc)的全卷积(fully conv)网络。可适应任意尺寸输入。
-（2）增大数据尺寸的反卷积(deconv)层。能够输出精细的结果。
+（1）不含全连接层(fc)的全卷积(fully conv)网络。可适应任意尺寸输入。<br>
+（2）增大数据尺寸的反卷积(deconv)层。能够输出精细的结果。<br>
 （3）结合不同深度层结果的跳级(skip)结构。同时确保鲁棒性和精确性。
 
 <div align=center>
@@ -209,11 +229,11 @@ FCN是图像分割领域里程碑式论文。作为语义分割的开山之作�
 <br>
 
 <b>参考</b>
-[1]FCN的学习及理解（Fully Convolutional Networks for Semantic Segmentation），CSDN
-[2]mean shift 图像分割 (一)，CSDN
-[3]https://zhuanlan.zhihu.com/p/49512872
-[4]图像分割—基于图的图像分割（Graph-Based Image Segmentation），CSDN
-[5]https://www.cnblogs.com/fourmi/p/9785377.html
+[1]FCN的学习及理解（Fully Convolutional Networks for Semantic Segmentation），CSDN <br>
+[2]mean shift 图像分割 (一)，CSDN <br>
+[3]https://zhuanlan.zhihu.com/p/49512872 <br>
+[4]图像分割—基于图的图像分割（Graph-Based Image Segmentation），CSDN <br>
+[5]https://www.cnblogs.com/fourmi/p/9785377.html <br>
 
 
 <b>推荐阅读</b>
