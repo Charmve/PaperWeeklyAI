@@ -76,7 +76,7 @@ DeepLab系列采用了Dilated/Atrous Convolution的方式扩展感受野，获�
 <div align=center>
   <img src="https://img-blog.csdnimg.cn/img_convert/d034d44bca50bee71d108a9698f70de9.png"><br>
   <img src="https://img-blog.csdnimg.cn/img_convert/1ba1f9886fdec067b72871607bb49701.png"><br>
-  <img src="https://img-blog.csdnimg.cn/img_convert/fb7ae61ce4a0bf5dc593ae0b1ef6a4d3.png">
+  <img src="https://img-blog.csdnimg.cn/img_convert/fb7ae61ce4a0bf5dc593ae0b1ef6a4d3.png"><br>
 DeepLabv3+
 </div>
 <br>
@@ -237,7 +237,7 @@ FCN是图像分割领域里程碑式论文。作为语义分割的开山之作�
 
 [5] [滑动窗口也能用于实例分割，陈鑫磊、何恺明等人提出图像分割新范式](https://mp.weixin.qq.com/s__biz=MzIxMjg1Njc3Mw==&mid=2247499036&idx=1&sn=9f5bb1887c46937cef0eec39438e5ff3&chksm=97bd07b6a0ca8ea04e7dd18bfefd9216183aa2e922e04691577f61d8f1a96130745b2647c0fc&token=352776378&lang=zh_CN#rd)
 
-
+<br>
 * 推荐个人Github Repo：表面缺陷检测数据集Surface defect detection datasets https://github.com/Charmve/Surface-Defect-Detection
 
 
