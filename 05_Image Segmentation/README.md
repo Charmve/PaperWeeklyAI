@@ -1,4 +1,4 @@
-# Image Segmentation
+# Image Segmentation Paper Top 10
 
 Curated Top 10 ImgSegmentation papers, including paper code and datasets. ⚙️
 
