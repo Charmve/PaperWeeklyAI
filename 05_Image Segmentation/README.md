@@ -11,7 +11,7 @@ Curated Top 10 ImgSegmentation papers, including paper code and datasets. ⚙️
 
 图像分割（image segmentation）技术是计算机视觉领域的重要的研究方向，近些年，图像分割技术迅猛发展，在多个视觉研究领域都有着广泛的应用。本文盘点了近20年来影响力最大的 10 篇论文。
 
-注：这里的影响力以Web of Science上显示的论文的引用量排序，截止时间为2020年9月27日。
+<i><b>注：</b>这里的影响力以Web of Science上显示的论文的引用量排序，截止时间为2020年9月27日。</i>
 
 <br>
 
@@ -179,8 +179,9 @@ Normalized cuts and image segmentation
 被引频次：8056
 
 作者：Shi JB，Malik J<br>
-发布信息：2000，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE 论文：https://ieeexplore.ieee.org/abstract/document/1000236
+发布信息：2000，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE 
 
+论文：https://ieeexplore.ieee.org/abstract/document/1000236<br>
 论文：https://pdfs.semanticscholar.org/d5d0/2b093162096005834ee22def530de6c1f7eb.pdf
 
 NormalizedCut是基于图论的分割方法代表之一，与以往利用聚类的方法相比，更加专注于全局解的情况，并且根据图像的亮度，颜色，纹理进行划分。
@@ -238,7 +239,8 @@ FCN是图像分割领域里程碑式论文。作为语义分割的开山之作�
 [5] [滑动窗口也能用于实例分割，陈鑫磊、何恺明等人提出图像分割新范式](https://mp.weixin.qq.com/s__biz=MzIxMjg1Njc3Mw==&mid=2247499036&idx=1&sn=9f5bb1887c46937cef0eec39438e5ff3&chksm=97bd07b6a0ca8ea04e7dd18bfefd9216183aa2e922e04691577f61d8f1a96130745b2647c0fc&token=352776378&lang=zh_CN#rd)
 
 <br>
-* 推荐个人Github Repo：表面缺陷检测数据集Surface defect detection datasets https://github.com/Charmve/Surface-Defect-Detection
+* 推荐个人Github Repo：表面缺陷检测数据集<br>
+  Surface defect detection datasets https://github.com/Charmve/Surface-Defect-Detection
 
 
 
