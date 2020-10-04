@@ -5,7 +5,7 @@ Curated Top 10 ImgSegmentation papers, including paper code and datasets. ⚙️
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) 
 [![Summaries](https://img.shields.io/badge/summaries-in%20tweets-%2300acee.svg?style=flat)](https://twitter.com/eugeneyan/status/1288236455228137473) ![HitCount](http://hits.dwyl.com/eugeneyan/applied-ml.svg)
-
+<br>
 
 ## 迈微导读
 
@@ -13,7 +13,7 @@ Curated Top 10 ImgSegmentation papers, including paper code and datasets. ⚙️
 
 注：这里的影响力以Web of Science上显示的论文的引用量排序，截止时间为2020年9月27日。
 
-
+<br>
 
 ## -TOP10-   <b>Mask R-CNN</b> 
 被引频次：1839
@@ -25,12 +25,12 @@ Curated Top 10 ImgSegmentation papers, including paper code and datasets. ⚙️
 
 Mask R-CNN作为非常经典的实例分割（Instance segmentation）算法，在图像分割领域可谓“家喻户晓”。Mask R-CNN不仅在实例分割任务中表现优异，还是一个非常灵活的框架，可以通过增加不同的分支完成目标分类、目标检测、语义分割、实例分割、人体姿势识别等多种不同的任务。
 
-![Mask RCNN framework](https://img-blog.csdnimg.cn/img_convert/9ae64d9feaa76ae2ad79cf05916b9224.png)
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/img_convert/9ae64d9feaa76ae2ad79cf05916b9224.png">
+  <img src="https://img-blog.csdnimg.cn/img_convert/96e1f619c273730854c0f370a3426794.png">
+</div>
 
-
-![Mask RCNN framework](https://img-blog.csdnimg.cn/img_convert/96e1f619c273730854c0f370a3426794.png)
-
-
+<br>
 
 
 ## -TOP9- <b>SegNet</b>
@@ -46,14 +46,15 @@ SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
 
 SegNet是用于进行像素级别图像分割的全卷积网络。SegNet与FCN的思路较为相似，区别则在于Encoder中Pooling和Decoder的Upsampling使用的技术。Decoder进行上采样的方式是Segnet的亮点之一，SegNet主要用于场景理解应用，需要在进行inference时考虑内存的占用及分割的准确率。同时，Segnet的训练参数较少，可以用SGD进行end-to-end训练。
 
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/img_convert/be44b807c14405dffdb58aa34d853948.png">
+  <img src="https://img-blog.csdnimg.cn/img_convert/263f01b9fd4b04b8878e484703793adb.png">
+</div>
+<br>
 
-![](https://img-blog.csdnimg.cn/img_convert/be44b807c14405dffdb58aa34d853948.png)
 
-![](https://img-blog.csdnimg.cn/img_convert/263f01b9fd4b04b8878e484703793adb.png)
+## -TOP8- DeepLab
 
-
-
--TOP8-
 DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
 
 被引频次：2160
@@ -69,17 +70,15 @@ DeepLabv3+：https://arxiv.org/pdf/1802.02611.pdf
 
 DeepLab系列采用了Dilated/Atrous Convolution的方式扩展感受野，获取更多的上下文信息，避免了DCNN中重复最大池化和下采样带来的分辨率下降问题。2018年，Chen等人发布Deeplabv3+，使用编码器-解码器架构。DeepLabv3+在2012年pascal VOC挑战赛中获得89.0%的mIoU分数。
 
-
-
-
-
-
-
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/img_convert/d034d44bca50bee71d108a9698f70de9.png">
+  <img src="https://img-blog.csdnimg.cn/img_convert/1ba1f9886fdec067b72871607bb49701.png">
+  <img src="https://img-blog.csdnimg.cn/img_convert/fb7ae61ce4a0bf5dc593ae0b1ef6a4d3.png"> 
 DeepLabv3+
+</div>
+<br>
 
-
-
--TOP7-
+## -TOP7-
 Contour Detection and Hierarchical Image Segmentation
 
 被引频次：2231
@@ -91,10 +90,13 @@ Contour Detection and Hierarchical Image Segmentation
 Contour Detection and Hierarchical Image Segmentation通过检测轮廓来进行分割，以解决不加交互的图像分割问题，是分割领域中非常重要的一篇文章，后续很多边缘检测算法都利用了该模型。
 
 
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/img_convert/f78612e69f244920aac87f43ea1a7005.png">
+</div>
+<br>
 
 
-
--TOP6-
+## -TOP6-
 Efficient graph-based image segmentation
 
 被引频次：3302
@@ -106,10 +108,13 @@ Efficient graph-based image segmentation
 Graph-Based Segmentation 是经典的图像分割算法，作者Felzenszwalb也是提出DPM算法的大牛。该算法是基于图的贪心聚类算法，实现简单。目前虽然直接用其做分割的较少，但许多算法都用它作为基石。
 
 
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/img_convert/671a8c425f540487267f6314c584574c.png">
+</div>
+<br>
 
 
-
--TOP5-
+## -TOP5-
 SLIC Superpixels Compared to State-of-the-Art Superpixel Methods
 
 被引频次：4168
@@ -120,11 +125,14 @@ SLIC Superpixels Compared to State-of-the-Art Superpixel Methods
 
 SLIC 算法将K-means 算法用于超像素聚类，是一种思想简单、实现方便的算法，SLIC算法能生成紧凑、近似均匀的超像素，在运算速度，物体轮廓保持、超像素形状方面具有较高的综合评价，比较符合人们期望的分割效果。
 
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/img_convert/adc06e5f3a9237ccecb61c41b64446f4.png">
+</div>
+<br>
 
 
 
-
--TOP4-
+## -TOP4-
 U-Net: Convolutional Networks for Biomedical Image Segmentation
 
 被引频次：6920
@@ -137,11 +145,14 @@ U-Net: Convolutional Networks for Biomedical Image Segmentation
 
 U-Net是一种基于深度学习的图像语义分割方法，在医学图像分割领域表现尤为优异。它基于FCNs做出改进，相较于FCN多尺度信息更加丰富，同时适合超大图像分割。作者采用数据增强（data augmentation），通过使用在粗糙的3*3点阵上的随机取代向量来生成平缓的变形，解决了可获得的训练数据很少的问题。并使用加权损失（weighted loss）以解决对于同一类的连接的目标分割。
 
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/img_convert/59334386eebd747824ce30b5a1d593fd.png">
+</div>
+<br>
 
 
 
-
--TOP3-
+## -TOP3-
 Mean shift: A robust approach toward feature space analysis
 
 被引频次：6996
@@ -153,9 +164,10 @@ Mean shift: A robust approach toward feature space analysis
 
 Meanshift是基于像素聚类的代表方法之一，是一种特征空间分析方法。密度估计(Density Estimation) 和mode 搜索是Meanshift的两个核心点。对于图像数据，其分布无固定模式可循，所以密度估计必须用非参数估计，选用的是具有平滑效果的核密度估计（Kernel density estimation，KDE）。Meanshift 算法的稳定性、鲁棒性较好，有着广泛的应用。但是分割时所包含的语义信息较少，分割效果不够理想，无法有效地控制超像素的数量，且运行速度较慢，不适用于实时处理任务。
 
+<br>
 
 
--TOP2-
+## -TOP2-
 Normalized cuts and image segmentation
 
 被引频次：8056
@@ -167,11 +179,14 @@ Normalized cuts and image segmentation
 
 NormalizedCut是基于图论的分割方法代表之一，与以往利用聚类的方法相比，更加专注于全局解的情况，并且根据图像的亮度，颜色，纹理进行划分。
 
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/img_convert/24189229d51b49835119c3a3b61bc97a.png">
+</div>
+<br>
 
 
 
-
--Top1-
+## -Top1-
 Fully Convolutional Networks for Semantic Segmentation
 
 被引频次：8170
@@ -187,8 +202,13 @@ FCN是图像分割领域里程碑式论文。作为语义分割的开山之作�
 （2）增大数据尺寸的反卷积(deconv)层。能够输出精细的结果。
 （3）结合不同深度层结果的跳级(skip)结构。同时确保鲁棒性和精确性。
 
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/img_convert/9d7d0be48441e6adc66b3e910fb6afad.png">
+</div>
+<br>
+<br>
 
-参考
+<b>参考</b>
 [1]FCN的学习及理解（Fully Convolutional Networks for Semantic Segmentation），CSDN
 [2]mean shift 图像分割 (一)，CSDN
 [3]https://zhuanlan.zhihu.com/p/49512872
@@ -196,20 +216,22 @@ FCN是图像分割领域里程碑式论文。作为语义分割的开山之作�
 [5]https://www.cnblogs.com/fourmi/p/9785377.html
 
 
-推荐阅读
+<b>推荐阅读</b>
 
 （点击标题可跳转阅读）
 
-[1] 卷积神经网络必读的40篇经典论文，包含检测/识别/分类/分割多个领域
+[1] [卷积神经网络必读的40篇经典论文，包含检测/识别/分类/分割多个领域](https://mp.weixin.qq.com/s__biz=MzIxMjg1Njc3Mw==&mid=2247489304&idx=1&sn=c2c246caa8a52b6ab046a4cf87d4a892&chksm=97beedb2a0c964a4ae536fd9e108c3c21be110fb75f6d6f1cc70e520d535269c78b80e7f6e22&scene=21#wechat_redirect)
 
-[2] CVPR 2020最佳学生论文分享回顾：通过二叉空间分割（BSP）生成紧凑3D网格
+[2] [CVPR 2020最佳学生论文分享回顾：通过二叉空间分割（BSP）生成紧凑3D网格](https://mp.weixin.qq.com/s__biz=MzIxMjg1Njc3Mw==&mid=2247492045&idx=1&sn=71473c0347cad7c396726cca2df9d650&chksm=97bd1b67a0ca9271b589b0ddbdf97417d700488f7da21b5709f13261a023395f3f595b9f2e1a&scene=21#wechat_redirect)
 
-[3] 开源！5 行代码，快速实现图像分割，代码逐行详解，手把手教你处理图像
+[3] [开源！5 行代码，快速实现图像分割，代码逐行详解，手把手教你处理图像](https://mp.weixin.qq.com/s__biz=MzIxMjg1Njc3Mw==&mid=2247488515&idx=3&sn=14ee60f5ef1d47f2c704f976691ecea4&chksm=97beeea9a0c967bfafe44b2cbbf02f5b642e5edc9707e4788bb5a4857fa01d5dd2c9852a6514&scene=21#wechat_redirect)
 
-[4] 何恺明团队新作：图像分割精细度空前，边缘自带抗锯齿，算力仅需Mask R-CNN的2.6%
+[4] [何恺明团队新作：图像分割精细度空前，边缘自带抗锯齿，算力仅需Mask R-CNN的2.6%](https://mp.weixin.qq.com/s__biz=MzIxMjg1Njc3Mw==&mid=2247484315&idx=1&sn=e350d800d77a8d98212c1b6725b6c044&chksm=97bef931a0c970272103b85f5016ccbf962a3eb2daf71242d7d3e2d7581c0b1a7fcc9ff349f6&scene=21#wechat_redirect)
+
+[5] [滑动窗口也能用于实例分割，陈鑫磊、何恺明等人提出图像分割新范式](https://mp.weixin.qq.com/s__biz=MzIxMjg1Njc3Mw==&mid=2247499036&idx=1&sn=9f5bb1887c46937cef0eec39438e5ff3&chksm=97bd07b6a0ca8ea04e7dd18bfefd9216183aa2e922e04691577f61d8f1a96130745b2647c0fc&token=352776378&lang=zh_CN#rd)
 
 
-* 推荐个人Github Repo：表面缺陷检测数据集 https://github.com/Charmve/Surface-Defect-Detection
+* 推荐个人Github Repo：表面缺陷检测数据集Surface defect detection datasets https://github.com/Charmve/Surface-Defect-Detection
 
 
 
