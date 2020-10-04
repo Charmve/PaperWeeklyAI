@@ -18,19 +18,17 @@ Curated Top 10 ImgSegmentation papers, including paper code and datasets. ⚙️
 ## -TOP10-   <b>Mask R-CNN</b> 
 被引频次：1839
 
-作者：Kaiming He，Georgia Gkioxari，Piotr Dollar，Ross Girshick.
-
+作者：Kaiming He，Georgia Gkioxari，Piotr Dollar，Ross Girshick. <br>
 发布信息: 2017，16th IEEE International Conference on Computer Vision (ICCV)
 
-论文：https://arxiv.org/abs/1703.06870
-
+论文：https://arxiv.org/abs/1703.06870<br>
 代码：https://github.com/facebookresearch/Detectron
 
 Mask R-CNN作为非常经典的实例分割（Instance segmentation）算法，在图像分割领域可谓“家喻户晓”。Mask R-CNN不仅在实例分割任务中表现优异，还是一个非常灵活的框架，可以通过增加不同的分支完成目标分类、目标检测、语义分割、实例分割、人体姿势识别等多种不同的任务。
 
 <div align=center>
   <img src="https://img-blog.csdnimg.cn/img_convert/9ae64d9feaa76ae2ad79cf05916b9224.png"><br>
-  <img src="https://img-blog.csdnimg.cn/img_convert/96e1f619c273730854c0f370a3426794.png"><br>
+  <img src="https://img-blog.csdnimg.cn/img_convert/96e1f619c273730854c0f370a3426794.png">
 </div>
 
 <br>
@@ -42,12 +40,10 @@ SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
 
 被引频次：1937
 
-作者: Vijay Badrinarayanan，Alex Kendall，Roberto Cipolla
-
+作者: Vijay Badrinarayanan，Alex Kendall，Roberto Cipolla<br>
 发布信息：2015，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
 
-论文：https://arxiv.org/pdf/1511.00561.pdf
-
+论文：https://arxiv.org/pdf/1511.00561.pdf<br>
 代码：https://github.com/aizawan/segnet
 
 SegNet是用于进行像素级别图像分割的全卷积网络。SegNet与FCN的思路较为相似，区别则在于Encoder中Pooling和Decoder的Upsampling使用的技术。Decoder进行上采样的方式是Segnet的亮点之一，SegNet主要用于场景理解应用，需要在进行inference时考虑内存的占用及分割的准确率。同时，Segnet的训练参数较少，可以用SGD进行end-to-end训练。
@@ -65,16 +61,12 @@ DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convol
 
 被引频次：2160
 
-作者: Chen Liang-Chieh，Papandreou George，Kokkinos Iasonas等.
-
+作者: Chen Liang-Chieh，Papandreou George，Kokkinos Iasonas等.<br>
 发布信息：2018，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
 
-DeepLabv1：https://arxiv.org/pdf/1412.7062v3.pdf
-
-DeepLabv2：https://arxiv.org/pdf/1606.00915.pdf
-
-DeepLabv3：https://arxiv.org/pdf/1706.05587.pdf
-
+DeepLabv1：https://arxiv.org/pdf/1412.7062v3.pdf<br>
+DeepLabv2：https://arxiv.org/pdf/1606.00915.pdf<br>
+DeepLabv3：https://arxiv.org/pdf/1706.05587.pdf<br>
 DeepLabv3+：https://arxiv.org/pdf/1802.02611.pdf
 
 代码：https://github.com/tensorflow/models/tree/master/research/deeplab
@@ -84,7 +76,7 @@ DeepLab系列采用了Dilated/Atrous Convolution的方式扩展感受野，获�
 <div align=center>
   <img src="https://img-blog.csdnimg.cn/img_convert/d034d44bca50bee71d108a9698f70de9.png"><br>
   <img src="https://img-blog.csdnimg.cn/img_convert/1ba1f9886fdec067b72871607bb49701.png"><br>
-  <img src="https://img-blog.csdnimg.cn/img_convert/fb7ae61ce4a0bf5dc593ae0b1ef6a4d3.png"><br>
+  <img src="https://img-blog.csdnimg.cn/img_convert/fb7ae61ce4a0bf5dc593ae0b1ef6a4d3.png">
 DeepLabv3+
 </div>
 <br>
@@ -94,9 +86,10 @@ Contour Detection and Hierarchical Image Segmentation
 
 被引频次：2231
 
-作者: Arbelaez Pablo，Maire Michael，Fowlkes Charless等.
-发布信息：2011，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
-论文和代码：https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html
+作者: Arbelaez Pablo，Maire Michael，Fowlkes Charless等.<br>
+发布信息：2011，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE<br>
+
+论文和代码：https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html<br>
 
 Contour Detection and Hierarchical Image Segmentation通过检测轮廓来进行分割，以解决不加交互的图像分割问题，是分割领域中非常重要的一篇文章，后续很多边缘检测算法都利用了该模型。
 
@@ -112,8 +105,9 @@ Efficient graph-based image segmentation
 
 被引频次：3302
 
-作者：Felzenszwalb PF，Huttenlocher DP
-发布信息：2004，INTERNATIONAL JOURNAL OF COMPUTER VISION
+作者：Felzenszwalb PF，Huttenlocher DP<br>
+发布信息：2004，INTERNATIONAL JOURNAL OF COMPUTER VISION<br>
+
 论文和代码：http://cs.brown.edu/people/pfelzens/segment/
 
 Graph-Based Segmentation 是经典的图像分割算法，作者Felzenszwalb也是提出DPM算法的大牛。该算法是基于图的贪心聚类算法，实现简单。目前虽然直接用其做分割的较少，但许多算法都用它作为基石。
@@ -130,8 +124,7 @@ SLIC Superpixels Compared to State-of-the-Art Superpixel Methods
 
 被引频次：4168
 
-作者: Radhakrishna Achanta，Appu Shaji，Kevin Smith，Aurelien Lucchi，Pascal Fua，Sabine Susstrunk.
-
+作者: Radhakrishna Achanta，Appu Shaji，Kevin Smith，Aurelien Lucchi，Pascal Fua，Sabine Susstrunk.<br>
 发布信息：2012，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
 
 论文和代码：https://ivrlwww.epfl.ch/supplementary_material/RK_SLICSuperpixels/index.html
@@ -150,12 +143,10 @@ U-Net: Convolutional Networks for Biomedical Image Segmentation
 
 被引频次：6920
 
-作者: Ronneberger Olaf，Fischer Philipp，Brox Thomas
-
+作者: Ronneberger Olaf，Fischer Philipp，Brox Thomas<br>
 发布信息：2015，18th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 
-论文：https://arxiv.org/pdf/1505.04597.pdf
-
+论文：https://arxiv.org/pdf/1505.04597.pdf<br>
 代码：https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 
 U-Net是一种基于深度学习的图像语义分割方法，在医学图像分割领域表现尤为优异。它基于FCNs做出改进，相较于FCN多尺度信息更加丰富，同时适合超大图像分割。作者采用数据增强（data augmentation），通过使用在粗糙的3*3点阵上的随机取代向量来生成平缓的变形，解决了可获得的训练数据很少的问题。并使用加权损失（weighted loss）以解决对于同一类的连接的目标分割。
@@ -172,8 +163,7 @@ Mean shift: A robust approach toward feature space analysis
 
 被引频次：6996
 
-作者: Comaniciu D，Meer P
-
+作者: Comaniciu D，Meer P<br>
 发布信息：2002，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
 
 论文：https://courses.csail.mit.edu/6.869/handouts/PAMIMeanshift.pdf
@@ -188,8 +178,7 @@ Normalized cuts and image segmentation
 
 被引频次：8056
 
-作者：Shi JB，Malik J
-
+作者：Shi JB，Malik J<br>
 发布信息：2000，IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE 论文：https://ieeexplore.ieee.org/abstract/document/1000236
 
 论文：https://pdfs.semanticscholar.org/d5d0/2b093162096005834ee22def530de6c1f7eb.pdf
@@ -208,12 +197,10 @@ Fully Convolutional Networks for Semantic Segmentation
 
 被引频次：8170
 
-作者: Long Jonathan，Shelhamer Evan，Darrell Trevor
-
+作者: Long Jonathan，Shelhamer Evan，Darrell Trevor<br>
 发布信息：2015，IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 
-论文：https://arxiv.org/abs/1411.4038
-
+论文：https://arxiv.org/abs/1411.4038<br>
 代码：https://github.com/shelhamer/fcn.berkeleyvision.org
 
 FCN是图像分割领域里程碑式论文。作为语义分割的开山之作，FCN是当之无愧的TOP1。它提出了全卷积网络(FCN)的概念，针对语义分割训练了一个端到端，点对点的网络，它包含了三个CNN核心思想：
@@ -228,14 +215,14 @@ FCN是图像分割领域里程碑式论文。作为语义分割的开山之作�
 <br>
 <br>
 
-<b>参考</b>
+<b>参考</b><br>
 [1]FCN的学习及理解（Fully Convolutional Networks for Semantic Segmentation），CSDN <br>
 [2]mean shift 图像分割 (一)，CSDN <br>
 [3]https://zhuanlan.zhihu.com/p/49512872 <br>
 [4]图像分割—基于图的图像分割（Graph-Based Image Segmentation），CSDN <br>
 [5]https://www.cnblogs.com/fourmi/p/9785377.html <br>
 
-
+<br>
 <b>推荐阅读</b>
 
 （点击标题可跳转阅读）
