@@ -1,3 +1,5 @@
+# 机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)分类算法原理讲解
+
 @[TOC](K最近邻（k-Nearest Neighbor，KNN）分类算法详解及Python实现)
 
 >上星期写了[Kaggle竞赛的详细介绍及入门指导](https://blog.csdn.net/Charmve/article/details/103804278)，但对于真正想要玩这个竞赛的伙伴，机器学习中的相关算法是必不可少的，即使是你不想获得名次和奖牌。那么，从本周开始，我将介绍在Kaggle比赛中的最基本的也是运用最广的机器学习算法，很多项目用这些基本的模型就能解决基础问题了。<p> 
