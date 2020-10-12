@@ -400,9 +400,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_
 [10]Peter Hall,Byeong U.Park & Richard J. Samworth. Choice of Neighbor Order In Nearest Neighbor Classification,2008.<br>
 [11] Jia Pan & Dinesh Manocha. Bi-Level Locality Sensitive Hashing for K-Nearest Neighbor Computation,2012.
 
-<br>
-<center>-END-</center>
-<br>
+
 
 <br>
 
