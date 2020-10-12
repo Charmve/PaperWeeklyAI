@@ -1,3 +1,5 @@
+# 机器学习实战 | 逻辑回归应用之“Kaggle泰坦尼克之灾”
+
 > 作者： 寒小阳
 时间：2015年11月。
 出处：http://blog.csdn.net/han_xiaoyang/article/details/49797143<p>
