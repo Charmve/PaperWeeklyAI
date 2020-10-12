@@ -99,6 +99,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | [12.准确检测DeepFake视频，阿里新算法从多个人物中识别被篡改的人脸](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    |
 | [13.CVPR 2020最佳学生论文分享回顾：通过二叉空间分割（BSP）生成紧凑3D网格](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    |
 | [14.卷积神经网络必读的40篇经典论文，包含检测/识别/分类/分割多个领域](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐⭐ |  |    |
+| [15.Kaggle X光肺炎检测比赛第二名方案解析 CVPR 2020 Workshop](https://github.com/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/02_%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E8%AE%BA%E6%96%87/%E2%80%8BKaggle%20X%E5%85%89%E8%82%BA%E7%82%8E%E6%A3%80%E6%B5%8B%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%90%8D%E6%96%B9%E6%A1%88%E8%A7%A3%E6%9E%90%20%7C%20CVPR%202020%20Workshop.md) | ⭐⭐⭐⭐ |  |    |
 
 <br>
 
@@ -109,9 +110,9 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 
 | Title | 推荐指数 | 推荐理由 | 时间 |
 |   --- |       ---|       ---|  ---|
-| [01.机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)分类算法原理讲解](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐⭐⭐|  |  |
+| [01.机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)分类算法原理讲解](https://github.com/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/03_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E4%B9%8B%E2%80%94%E2%80%94K%E6%9C%80%E8%BF%91%E9%82%BB(k-Nearest%20Neighbor%EF%BC%8CKNN)%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E8%AE%B2%E8%A7%A3.md) | ⭐⭐⭐⭐⭐|  |  |
 | [02.机器学习算法之——隐马尔可夫模型(Hidden Markov Models,HMM)](https://github.com/Charmve/PaperWeeklyAI)| ⭐⭐⭐⭐ |  |  |     
-| [03.机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)分类算法Python实现](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |   |  |
+| [03.机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)分类算法Python实现](https://github.com/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/03_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%26%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E4%B9%8B%E2%80%94%E2%80%94K%E6%9C%80%E8%BF%91%E9%82%BB(k-Nearest%20Neighbor%EF%BC%8CKNN)%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95Python%E5%AE%9E%E7%8E%B0.md) | ⭐⭐⭐ |   |  |
 | [04.机器学习算法之——走进卷积神经网络(CNN)](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |   |   |
 | [05.机器学习算法之——逻辑回归（Logistic Regression）](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |   |   |
 | [06.暴力方法将成过去？UC伯克利等新研究返璞归真，探索网络的本质](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐⭐ |  |  |
@@ -131,7 +132,7 @@ Study papers in the fields of computer vision, NLP, and machine learning algorit
 | Title | 推荐指数 | 推荐理由 | 时间 |
 |   --- |       ---|       ---|  ---|
 | [01.机器学习实战：逻辑回归应用之“Kaggle房价预测”](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐⭐|  |  |
-| [02.机器学习实战：逻辑回归应用之“Kaggle泰坦尼克之灾”](https://github.com/Charmve/PaperWeeklyAI)| ⭐⭐⭐⭐⭐ |  |  |     
+| [02.机器学习实战：逻辑回归应用之“Kaggle泰坦尼克之灾”](https://github.com/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/04_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AF%87/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%20%7C%20%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E5%BA%94%E7%94%A8%E4%B9%8B%E2%80%9CKaggle%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E4%B9%8B%E7%81%BE%E2%80%9D.md)| ⭐⭐⭐⭐⭐ |  |  |     
 | [03.PyTorch实战：使用卷积神经网络对CIFAR10图片进行分类（附源码）](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐⭐ |   |  |
 | [04.表情识别FER：基于深度学习的人脸表情识别系统（Keras）](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |   |   |
 | [05.CVPR 2020夜间行人检测挑战赛两冠一亚：DeepBlueAI团队获胜方案解读](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |   |   |
