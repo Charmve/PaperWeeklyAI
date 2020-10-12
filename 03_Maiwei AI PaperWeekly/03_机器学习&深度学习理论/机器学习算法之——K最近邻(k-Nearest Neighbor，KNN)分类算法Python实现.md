@@ -302,8 +302,28 @@ print(testVector[0,0:22])
 
 测试函数：    
       ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229221603588.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+
 错误率为<font color = red > 1.2%。</font>
-<center>- END -</center>
+
+<br>
+<p align=center>
+     <strong>- END -</strong>
+</p>
+
+<br>
+
+**推荐文章**
+
+[1] [机器学习算法之——走近卷积神经网络(CNN)](https://blog.csdn.net/Charmve/article/details/104872365)<br>
+[2] [机器学习算法之——卷积神经网络(CNN)原理讲解](https://blog.csdn.net/Charmve/article/details/104872435)<br>
+[3] [卷积神经网络中十大拍案叫绝的操作](https://blog.csdn.net/Charmve/article/details/105093727)<br>
+[4] [机器学习算法之——梯度提升(Gradient Boosting)  算法讲解及Python实现](https://blog.csdn.net/Charmve/article/details/103846873)<br>
+[5] [机器学习算法之——逻辑回归（Logistic Regression）](https://blog.csdn.net/Charmve/article/details/103844249)<br>
+[6] [机器学习算法之——决策树模型(Decision Tree Model)算法讲解及Python实现](https://mp.weixin.qq.com/s?__biz=MzIxMjg1Njc3Mw==&mid=2247484003&idx=6&sn=8be6122009f862a41cc4a313c090bb0f&chksm=97bef8c9a0c971dfc74b0f24a510cffee66d368689d8e97faa54e960c4b6201983b97e488fb3&scene=21&token=2142822614&lang=zh_CN#wechat_redirect)<br>
+[7] [机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)分类算法原理讲解](https://blog.csdn.net/Charmve/article/details/103950561)<br>
+[8] [机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)算法Python实现](https://blog.csdn.net/Charmve/article/details/104583287)<br>
+
+
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229223432467.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70)
 
