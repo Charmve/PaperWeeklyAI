@@ -1,3 +1,4 @@
+# Kaggle X光肺炎检测比赛第二名方案解析 | CVPR 2020 Workshop
 
 <div align=center>
   <img src="https://img-blog.csdnimg.cn/20200612163459287.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
