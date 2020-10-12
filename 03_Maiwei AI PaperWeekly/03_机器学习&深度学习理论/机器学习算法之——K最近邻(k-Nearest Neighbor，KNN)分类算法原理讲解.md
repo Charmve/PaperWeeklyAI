@@ -54,15 +54,20 @@ $$r =  d(x_i,x_j)=\sqrt{\sum\nolimits_{i=1}^{n} [a_r(x_i)−a_r(x_j)]^2} $$
 >-  其中如果a=b那么d(a,b)=1，否则d(a,b)=0
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020022918153897.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+
 简单来说，KNN可以看成：有那么一堆你已经知道分类的数据，然后当一个新数据进入的时候，就开始跟训练数据里的每个点求距离，然后挑离这个训练数据最近的K个点看看这几个点属于什么类型，然后用少数服从多数的原则，给新数据归类。
 
 ## 4. KNN算法的决策过程
 下图中有两种类型的样本数据，一类是蓝色的正方形，另一类是红色的三角形，中间那个绿色的圆形是待分类数据：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229175555671.png#pic_center)
+
 如果K=3，那么离绿色点最近的有2个红色的三角形和1个蓝色的正方形，这三个点进行投票，于是绿色的待分类点就属于红色的三角形。而如果K=5，那么离绿色点最近的有2个红色的三角形和3个蓝色的正方形，这五个点进行投票，于是绿色的待分类点就属于蓝色的正方形。
 
 下图则图解了一种简单情况下的k-最近邻算法，在这里实例是二维空间中的点，目标函数具有布尔值。正反训练样例用“+”和“-”分别表示。图中也画出了一个查询点xq。注意在这幅图中，1-近邻算法把xq分类为正例，然而5-近邻算法把xq分类为反例。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229181655343.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+
 **图解说明：** 左图画出了一系列的正反训练样例和一个要分类的查询实例xq。1-近邻算法把xq分类为正例，然而5-近邻算法把xq分类为反例。
 右图是对于一个典型的训练样例集合1-近邻算法导致的决策面。围绕每个训练样例的凸多边形表示最靠近这个点的实例空间（即这个空间中的实例会被1-近邻算法赋予该训练样例所属的分类）。
 
@@ -72,6 +77,7 @@ $$ f(xq)⟵∑ki=1f(xi)k$$
 
 # 三、针对传统KNN算法的改进
 1. 快速KNN算法。<font color = blue>参考FKNN论述文献（实际应用中结合lucene）
+
 2. 加权欧氏距离公式。在传统的欧氏距离中,各特征的权重相同,也就是认定各个特征对于分类的贡献是相同的,显然这是不符合实际情况的。同等的权重使得特征向量之间相似度计算不够准确, 进而影响分类精度。加权欧氏距离公式,特征权重通过灵敏度方法获得（根据业务需求调整，例如关键字加权、词性加权等）
 
 <font size = 4> **距离加权最近邻算法**
@@ -91,10 +97,8 @@ $$ w_i≡d(x_q,x_i)^2$$
 
 我们也可以用类似的方式对实值目标函数进行距离加权，只要用下式替换上表的公式：
 
- 
 
 $$ f(xq)⟵\sum\nolimits_{i=1}^{k}w_if(x_i) $$
-
 
 
 其中，wi的定义与之前公式中相同。
@@ -133,8 +137,6 @@ $$ f(xq)⟵\sum\nolimits_{i=1}^{k}w_if(x_i) $$
 
 　　K的取值尽量要取奇数，以保证在计算结果最后会产生一个较多的类别，如果取偶数可能会产生相等的情况，不利于预测。
 
- 
-
 　　**K的取法：**
  　　常用的方法是从k=1开始，使用检验集估计分类器的误差率。重复该过程，每次K增值1，允许增加一个近邻。选取产生最小误差率的K。
 
@@ -146,6 +148,7 @@ $$ f(xq)⟵\sum\nolimits_{i=1}^{k}w_if(x_i) $$
 　　关于距离的度量方法，常用的有：欧几里得距离、余弦值（cos）, 相关度 （correlation）, 曼哈顿距离 （Manhattan distance）或其他。
 
 　　**Euclidean Distance** 定义：
+  
 　　两个点或元组P1=（x1，y1）和P2=（x2，y2）的欧几里得距离是
 
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229182900417.png#pic_center)
@@ -153,6 +156,7 @@ $$ f(xq)⟵\sum\nolimits_{i=1}^{k}w_if(x_i) $$
 　　距离公式为：（多个维度的时候是多个维度各自求差）
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229182906435.png#pic_center)
+
 ## 3. 相似性度量
 相似性一般用空间内两个点的距离来度量。距离越大，表示两个越不相似。
 
@@ -214,8 +218,10 @@ $$ d_{average}=[\sum\nolimits_{i=1}^{n}(x_i−y_i)^2]\frac{1}{2} $$
 
 
 ## 4. 消极学习与积极学习
+
 ### (1) 积极学习(Eager Learning)
 这种学习方式是指在进行某种判断（例如，确定一个点的分类或者回归中确定某个点对应的函数值）之前，先利用训练数据进行训练得到一个目标函数，待需要时就只利用训练好的函数进行决策，显然这是一种一劳永逸的方法，SVM就属于这种学习方式。
+
 ### (2) 消极学习(Lazy Learning)
 这种学习方式指不是根据样本建立一般化的目标函数并确定其参数，而是简单地把训练样本存储起来，直到需要分类新的实例时才分析其与所存储样例的关系，据此确定新实例的目标函数值。也就是说这种学习方式只有到了需要决策时才会利用已有数据进行决策，而在这之前不会经历 Eager Learning所拥有的训练过程。KNN就属于这种学习方式。
 比较
@@ -382,33 +388,34 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_
 
 
 <font size =4 face = "微软雅黑">**文献资料**</font>
-[1] Trevor Hastie & Rolbert Tibshirani. Discriminant Adaptive Nearest Neighbor Classification. IEEE TRANSACTIONS ON PAITERN ANALYSIS AND MACHINE INTELLIGENCE,1996.
-[2] R. Short & K. Fukanaga. A New Nearest Neighbor Distance Measure,Pro. Fifth IEEE Int’l Conf.Pattern Recognition,pp.81-86,1980.
-[3] T.M Cover. Nearest Neighbor Pattern Classification,Pro. IEEE Trans,Infomation Theory,1967.
-[4] C.J.Stone. Consistent Nonparametric Regression ,Ann.Stat.,vol.3,No.4,pp.595-645,1977.
-[5] W Cleveland. Robust Locally-Weighted Regression and Smoothing Scatterplots,J.Am.Statistical.,vol.74,pp.829-836,1979.
-[6] T.A.Brown & J.Koplowitz. The Weighted Nearest Neighbor Rule for Class Dependent Sample Sizes,IEEE Tran. Inform.Theory,vol.IT-25,pp.617-619,Sept.1979.
-[7] J.P.Myles & D.J.Hand. The Multi-Class Metric Problem in Nearest Neighbor Discrimination Rules,Pattern Recognition,1990.
-[8] N.S.Altman. An Introduction to Kernel and Nearest Neighbor Nonparametric Regression,1992.
-[9]Min-Ling Zhang & Zhi-Hua Zhou. M1-KNN:A Lazy Learning Approach to Multi-Label Learning,2007.
-[10]Peter Hall,Byeong U.Park & Richard J. Samworth. Choice of Neighbor Order In Nearest Neighbor Classification,2008.
+[1] Trevor Hastie & Rolbert Tibshirani. Discriminant Adaptive Nearest Neighbor Classification. IEEE TRANSACTIONS ON PAITERN ANALYSIS AND MACHINE INTELLIGENCE,1996.<br>
+[2] R. Short & K. Fukanaga. A New Nearest Neighbor Distance Measure,Pro. Fifth IEEE Int’l Conf.Pattern Recognition,pp.81-86,1980.<br>
+[3] T.M Cover. Nearest Neighbor Pattern Classification,Pro. IEEE Trans,Infomation Theory,1967.<br>
+[4] C.J.Stone. Consistent Nonparametric Regression ,Ann.Stat.,vol.3,No.4,pp.595-645,1977.<br>
+[5] W Cleveland. Robust Locally-Weighted Regression and Smoothing Scatterplots,J.Am.Statistical.,vol.74,pp.829-836,1979.<br>
+[6] T.A.Brown & J.Koplowitz. The Weighted Nearest Neighbor Rule for Class Dependent Sample Sizes,IEEE Tran. Inform.Theory,vol.IT-25,pp.617-619,Sept.1979.<br>
+[7] J.P.Myles & D.J.Hand. The Multi-Class Metric Problem in Nearest Neighbor Discrimination Rules,Pattern Recognition,1990.<br>
+[8] N.S.Altman. An Introduction to Kernel and Nearest Neighbor Nonparametric Regression,1992.<br>
+[9]Min-Ling Zhang & Zhi-Hua Zhou. M1-KNN:A Lazy Learning Approach to Multi-Label Learning,2007.<br>
+[10]Peter Hall,Byeong U.Park & Richard J. Samworth. Choice of Neighbor Order In Nearest Neighbor Classification,2008.<br>
 [11] Jia Pan & Dinesh Manocha. Bi-Level Locality Sensitive Hashing for K-Nearest Neighbor Computation,2012.
 
 <br>
 <center>-END-</center>
 <br>
 
+<br>
 
 **推荐文章**
 
-[1] [机器学习算法之——走近卷积神经网络(CNN)](https://blog.csdn.net/Charmve/article/details/104872365)
-[2] [机器学习算法之——卷积神经网络(CNN)原理讲解](https://blog.csdn.net/Charmve/article/details/104872435)
-[3] [卷积神经网络中十大拍案叫绝的操作](https://blog.csdn.net/Charmve/article/details/105093727)
-[4] [机器学习算法之——梯度提升(Gradient Boosting)  算法讲解及Python实现](https://blog.csdn.net/Charmve/article/details/103846873)
-[5] [机器学习算法之——逻辑回归（Logistic Regression）](https://blog.csdn.net/Charmve/article/details/103844249)
-[6] [机器学习算法之——决策树模型(Decision Tree Model)算法讲解及Python实现](https://mp.weixin.qq.com/s?__biz=MzIxMjg1Njc3Mw==&mid=2247484003&idx=6&sn=8be6122009f862a41cc4a313c090bb0f&chksm=97bef8c9a0c971dfc74b0f24a510cffee66d368689d8e97faa54e960c4b6201983b97e488fb3&scene=21&token=2142822614&lang=zh_CN#wechat_redirect)
-[7] [机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)分类算法原理讲解](https://blog.csdn.net/Charmve/article/details/103950561)
-[8] [机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)算法Python实现](https://blog.csdn.net/Charmve/article/details/104583287)
+[1] [机器学习算法之——走近卷积神经网络(CNN)](https://blog.csdn.net/Charmve/article/details/104872365)<br>
+[2] [机器学习算法之——卷积神经网络(CNN)原理讲解](https://blog.csdn.net/Charmve/article/details/104872435)<br>
+[3] [卷积神经网络中十大拍案叫绝的操作](https://blog.csdn.net/Charmve/article/details/105093727)<br>
+[4] [机器学习算法之——梯度提升(Gradient Boosting)  算法讲解及Python实现](https://blog.csdn.net/Charmve/article/details/103846873)<br>
+[5] [机器学习算法之——逻辑回归（Logistic Regression）](https://blog.csdn.net/Charmve/article/details/103844249)<br>
+[6] [机器学习算法之——决策树模型(Decision Tree Model)算法讲解及Python实现](https://mp.weixin.qq.com/s?__biz=MzIxMjg1Njc3Mw==&mid=2247484003&idx=6&sn=8be6122009f862a41cc4a313c090bb0f&chksm=97bef8c9a0c971dfc74b0f24a510cffee66d368689d8e97faa54e960c4b6201983b97e488fb3&scene=21&token=2142822614&lang=zh_CN#wechat_redirect)<br>
+[7] [机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)分类算法原理讲解](https://blog.csdn.net/Charmve/article/details/103950561)<br>
+[8] [机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)算法Python实现](https://blog.csdn.net/Charmve/article/details/104583287)<br>
 
 <br>
 <p align=center>
