@@ -140,8 +140,9 @@ RetinaNet的框架整体是ResNet+FPN+FCN，它使用ResNet作为backbone来提�
 
 **训练参数：**
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612163946988.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
-
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/20200612163946988.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
+</div>
 
 
 ## 3.2 主干网络选取
@@ -150,8 +151,9 @@ RetinaNet的框架整体是ResNet+FPN+FCN，它使用ResNet作为backbone来提�
 
 为了实现合理的快速实验和规范化，同时考虑了在精度与复杂度/参数数量和因此之间取得良好折衷的架构。图中显示了在RetinaNet SSD中使用的各种编码器训练期间的验证损失。SE-ResNext体系结构取得了该数据集的最佳性能，并且在准确性和复杂性之间取得了良好的折衷。
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020061216400628.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
-
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/2020061216400628.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
+</div>
 
 
 
