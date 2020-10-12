@@ -40,11 +40,17 @@ OK，OK，这就来了咯，社友们别着急，我们先找个简单的实际�
 带大家去[该问题页面](https://www.kaggle.com/c/titanic)溜达一圈吧
 
 下面是问题背景页
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200530161730961.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+
 下面是可下载Data的页面
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200530161737108.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+
 下面是小伙伴们最爱的forum页面，你会看到各种神级人物厉(qi)害(pa)的数据处理/建模想法，你会直视『世界真奇妙』。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200530161744476.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+
 泰坦尼克号问题之背景
 
 - 就是那个大家都熟悉的『Jack and Rose』的故事，豪华游艇倒了，大家都惊恐逃生，可是救生艇的数量有限，无法人人都有，副船长发话了『lady and kid first！』，所以是否获救其实并非随机，而是基于一些背景有rank先后的。
@@ -89,6 +95,7 @@ data_train
 
 ```
 pandas是常用的python数据处理包，把csv文件读入成dataframe各式，我们在ipython notebook中，看到data_train如下所示：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200530162100831.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
 
 这就是典型的dataframe格式，如果你没接触过这种格式，完全没有关系，你就把它想象成Excel里面的列好了。
@@ -114,6 +121,7 @@ data_train.info()
 ```
 
 看到了如下的信息：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200530162201472.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
 
 上面的数据说啥了？它告诉我们，训练数据中总共有891名乘客，但是很不幸，我们有些属性的数据不全，比如说：
@@ -234,6 +242,7 @@ plt.ylabel(u"人数")
 plt.show()
 
 ```
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/202005301624549.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
 
 歪果盆友果然很尊重lady，lady first践行得不错。性别无疑也要作为重要特征加入最后的模型之中。
@@ -268,6 +277,7 @@ ax4.set_xticklabels([u"未获救", u"获救"], rotation=0)
 plt.legend([u"男性/低级舱"], loc='best')
 plt.show()
 ```
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020053016251413.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
 
 恩，坚定了之前的判断。
@@ -289,6 +299,7 @@ plt.ylabel(u"人数")
 plt.show()
 
 ```
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020053016254740.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
 
 下面我们来看看 堂兄弟/妹，孩子/父母有几人，对是否获救的影响。
@@ -337,6 +348,7 @@ plt.ylabel(u"人数")
 plt.show()
 
 ```
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200530162722718.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
 
 咳咳，有Cabin记录的似乎获救概率稍高一些，先这么着放一放吧。
