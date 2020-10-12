@@ -1,6 +1,7 @@
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612163459287.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
-
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/20200612163459287.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
+</div>
 
 **论文地址：**[https://arxiv.org/abs/2005.13899](https://arxiv.org/abs/2005.13899)
 
@@ -52,25 +53,25 @@
 
 “无肺不透明/非正常”类别说明了**在CXR肺不透明区域可见但未诊断出肺炎的患者的数据**。图1显示了所有三个类别的CXR实例，这些类别标记有不健康患者的边界框。
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612163802622.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/20200612163802622.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
+</div>
 
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020061216381322.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
-
-
-
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/2020061216381322.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
+</div>
 
 
 
 **评价指标**
 
 
-
 使用不同的交并比（IoU）阈值下的平均准确精度（mAP）来评估模型。阈值的范围从0.4到0.75，步长为0.05：（0.4、0.45、0.5、0.55、0.6、0.65、0.7、0.75）。
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612163845435.png#pic_center)
 
-
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/20200612163845435.png">
+</div>
 
 # 3. 本文模型
 
@@ -86,9 +87,10 @@
 RetinaNet的框架整体是ResNet+FPN+FCN，它使用ResNet作为backbone来提取图像特征，然后从中抽取5层特征层来构建特征金字塔网络（FPN: feature pyramid network），最后接两个独立的全卷积网络（FCN: full convolution network）分别得到物体的类别信息和位置框信息。
 
 
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/20200612163901576.png">
+</div>
 
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612163901576.png#pic_center)
 △ RetinaNet框架
 
 
@@ -160,10 +162,17 @@ RetinaNet的框架整体是ResNet+FPN+FCN，它使用ResNet作为backbone来提�
 
 原始图像按比例缩放为512×512像素分辨率，由于原始的挑战数据集不是很大，因此采用了以下图像增强来减少过拟合：轻微旋转（最多6度）；移位，缩放，剪切；水平翻转；对于某些图像，模糊处理，添加噪声，进行伽玛值随机变化；有限提高亮度/伽玛增强量等。
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612164017652.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/20200612164017652.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
+</div>
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612164024927.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612164032313.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/20200612164024927.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
+</div>
+
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/20200612164032313.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
+</div>
 
 
 
@@ -184,8 +193,9 @@ RetinaNet的框架整体是ResNet+FPN+FCN，它使用ResNet作为backbone来提�
 
 由于标记过程不同，训练和测试集的最大抑制（NMS）算法也有所不同。NMS阈值对mAP指标值产生了巨大影响。图8显示了针对不同训练时期和NMS阈值的验证mAP指标变化。**验证集的最佳NMS阈值在各个时期之间存在显着差异，取决于模型，其最佳范围在0.45和1之间。**
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612164057509.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
-
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/20200612164057509.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
+</div>
 
 
 另一种方法是**将测试集的预测的目标框box大小重新缩放为原始大小的87.5％，以反映测试和训练集标签过程之间的差异。选择87.5％的系数以使尺寸与以前的方法大致匹配。**
@@ -197,9 +207,13 @@ RetinaNet的框架整体是ResNet+FPN+FCN，它使用ResNet作为backbone来提�
 
 检测模型的结果可能在各个epoch之间发生显着变化，并且很大程度上取决于阈值。在应用NMS算法和优化阈值之前，将相同模型的4折交叉验证的输出合并。
 
+<div align=center>
+  <img src="https://img-blog.csdnimg.cn/20200612164108892.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
+</div>
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200612164108892.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
-<center>\ > END < /</center>
+<p align=center>
+    <strong> \ > END < /</strong>
+</p>
 
 <br><br>
 
@@ -221,13 +235,13 @@ RetinaNet的框架整体是ResNet+FPN+FCN，它使用ResNet作为backbone来提�
 <br>
 
 
-
 关注公众号迈微电子研发社，文章首发于公众号。
 
 
 <div align=center>
      <img src="https://img-blog.csdnimg.cn/20200224183312714.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
 </div>
+
 <p align=center>
      △微信扫一扫关注「迈微电子研发社」公众号
 </p>
