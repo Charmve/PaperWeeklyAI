@@ -242,7 +242,11 @@ FCN是图像分割领域里程碑式论文。作为语义分割的开山之作�
 <br>
 * 推荐个人Github Repo：表面缺陷检测数据集<br>
 
-<div>
+<table>
+        <tr>   
+		<td><font size="3"><b>1.</b></font></td>&nbsp;&nbsp;
+		<td><center><img width="260" src="img/surface_dataset.png" alt="Surface Defect Detection"></center></td>
+		<td>
 			<font size="4">
                             <b>   Surface Defect Detection: Paper & dataset</b>
 			</font>	    
@@ -264,7 +268,9 @@ FCN是图像分割领域里程碑式论文。作为语义分割的开山之作�
 		       <br><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>
 			    <a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">https://github.com/Charmve/Surface-Defect-Detection</a>
 		       <br><br>
-		</div>
+		</td>
+	</tr>
+</table>
 
 
 
