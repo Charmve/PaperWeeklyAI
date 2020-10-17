@@ -241,7 +241,30 @@ FCN是图像分割领域里程碑式论文。作为语义分割的开山之作�
 
 <br>
 * 推荐个人Github Repo：表面缺陷检测数据集<br>
-  Surface defect detection datasets https://github.com/Charmve/Surface-Defect-Detection
+
+<div>
+			<font size="4">
+                            <b>   Surface Defect Detection: Paper & dataset</b>
+			</font>	    
+			<font size="3">
+			<br>
+			<br>Constantly summarizing open source dataset and important critical papers in the field of surface defect research are very important.
+			<br><br> 🐎📈 Constantly summarizing open source dataset and important critical papers in the field of surface defect research are very important. 🐋 <br>
+        NEU-CLS, elpv-dataset, KolektorSDD, DeepPCB, AITEX, DAGM 2007, Cracks on the surface of the construction, Magnetic Tile, RSDDs Kylberg Texture, etc.
+                        <ul class="list-inline">
+                            <a class="github-button"
+                                href="https://github.com/Charmve/Surface-Defect-Detection"
+                                data-icon="octicon-star" data-show-count="true"
+                                aria-label="Star Charmve/Surface-Defect-Detection on GitHub">Star</a>
+                            <a class="github-button"
+                                href="https://github.com/Charmve/Surface-Defect-Detection/fork"
+                                data-icon="octicon-repo-forked" data-show-count="true"
+                                aria-label="Fork Charmve/Surface-Defect-Detection on GitHub">Fork</a>
+                       </ul>
+		       <br><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>
+			    <a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">https://github.com/Charmve/Surface-Defect-Detection</a>
+		       <br><br>
+		</div>
 
 
 
