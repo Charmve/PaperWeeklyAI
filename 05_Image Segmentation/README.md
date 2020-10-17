@@ -245,7 +245,7 @@ FCN是图像分割领域里程碑式论文。作为语义分割的开山之作�
 <table>
         <tr>   
 		<td><font size="3"><b>1.</b></font></td>&nbsp;&nbsp;
-		<td><center><img width="260" src="img/surface_dataset.png" alt="Surface Defect Detection"></center></td>
+		<td><center><img width="260" src="https://github.com/Charmve/Charmve.github.io/blob/master/img/surface_dataset.png" alt="Surface Defect Detection"></center></td>
 		<td>
 			<font size="4">
                             <b>   Surface Defect Detection: Paper & dataset</b>
@@ -268,6 +268,63 @@ FCN是图像分割领域里程碑式论文。作为语义分割的开山之作�
 		       <br><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>
 			    <a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">https://github.com/Charmve/Surface-Defect-Detection</a>
 		       <br><br>
+		</td>
+	</tr>
+	<tr>   
+		<td><font size="3"><b>2.</b></font></td>&nbsp;&nbsp;
+		<td><center><img width="260" src="https://github.com/Charmve/Charmve.github.io/blob/master/img/glrass_detection.jpg" alt="GlassDetection"></center></td>
+		<td>
+			<font size="4">
+			    <b>   Mirror&Glass Detection: Paper & dataset </b>
+			</font>	    
+			<font size="3">
+		            <br>
+			    <br>   I'm more interested in detecting general glass surfaces that may not possess any special properties, 
+				and am developing computational models for automatic detection and segmentation of mirror and transparent glass surfaces.
+			    <br>
+				Thanks for <i>cs.cityu.edu.hk.</i>
+			    <br>
+			    <ul class="list-inline">
+                                 <a class="github-button"
+                                     href="https://github.com/Charmve/Mirror-Glass-Detection"
+                                     data-icon="octicon-star" data-show-count="true"
+                                     aria-label="Star Charmve/Mirror-Glass-Detection on GitHub">Star</a>
+                                 <a class="github-button"
+                                     href="https://github.com/Charmve/Mirror-Glass-Detection/fork"
+                                     data-icon="octicon-repo-forked" data-show-count="true"
+                                     aria-label="Fork Charmve/Mirror-Glass-Detection on GitHub">Fork</a>
+                            </ul>
+			    <br><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>
+				<a href="https://github.com/Charmve/Mirror-Glass-Detection" target="_blank">https://github.com/Charmve/Mirror-Glass-Detection</a>
+			    <br><br>
+			</font>
+		</td>
+	</tr>
+	<tr>   
+		<td><font size="3"><b>3.</b></font></td>&nbsp;&nbsp;
+		<td><center><img width="260" src="https://github.com/Charmve/Charmve.github.io/blob/master/img/sne-roadseg.png" alt="SNE-RoadSeg2"></center></td>
+		<td>
+			<font size="4">
+			    <b>   SNE-RoadSeg2: Accurate Freespace Detection</b>
+			</font>	    
+			<font size="3">
+			    <br>
+			    <br>   PyTorch implementation of SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection <a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750341.pdf" target="_blank">[Paper]</a>
+			    <br>
+                            <ul class="list-inline">
+                                <a class="github-button"
+                                    href="https://github.com/Charmve/SNE-RoadSeg2"
+                                    data-icon="octicon-star" data-show-count="true"
+                                    aria-label="Star Charmve/SNE-RoadSeg2 on GitHub">Star</a>
+                                <a class="github-button"
+                                    href="https://github.com/Charmve/SNE-RoadSeg2/fork"
+                                    data-icon="octicon-repo-forked" data-show-count="true"
+                                    aria-label="Fork Charmve/SNE-RoadSeg2 on GitHub">Fork</a>
+                            </ul>
+			    <br><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>
+				<a href="https://github.com/Charmve/SNE-RoadSeg2" target="_blank">https://github.com/Charmve/SNE-RoadSeg2</a>
+			    <br><br>
+			</font>
 		</td>
 	</tr>
 </table>
