@@ -2,7 +2,7 @@
 This repository contains some models for semantic segmentation and the pipeline of training and testing models, 
 implemented in PyTorch
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/Charmve" target="_blank"><img src="https://img.shields.io/badge/Github-Charmve-blue" alt="Charmve"></a>
   <a href="https://github.com/Charmve/Semantic-Segmentation-PyTorch/tree/master/models" target="_blank"><img src="https://img.shields.io/badge/Github-Code-green" alt="Code"></a>
   <a href="https://github.com/Charmve/Semantic-Segmentation-PyTorch" target="_blank"><img src="https://img.shields.io/badge/Github-Repo-red" alt="Repo"></a>
