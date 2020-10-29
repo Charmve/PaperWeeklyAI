@@ -12,7 +12,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - **Why** it works, the science behind it with research, literature, and references 📂
 - **What** real-world results were achieved (so you can better assess ROI ⏰💰📈)
 
-P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/eugeneyan/ml-surveys)
+P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/Charmve/PaperWeeklyAI/tree/master/06_ML-Surveys)
 
 **Table of Contents**
 
