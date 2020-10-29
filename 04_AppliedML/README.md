@@ -333,4 +333,4 @@ P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/e
 
 <br>
 
-**P.S., Want a summary of ML advancements?** Get up to speed with survey papers 👉[`ml-surveys`](https://github.com/eugeneyan/ml-surveys)
+**P.S., Want a summary of ML advancements?** Get up to speed with survey papers 👉[`ml-surveys`](https://github.com/Charmve/PaperWeeklyAI/tree/master/06_ML-Surveys)
