@@ -7,10 +7,7 @@
 /_/  /_/\__,_/_/ |__/|__/\___/_/_/  |_/___/     \___/\____/_/ /_/ /_/      
     </pre>
 </div>
-    
-<a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
-	       <img class="ai-header-badge-img" src="https://img.shields.io/badge/style--5eba00.svg?label=Zhihu&logo=zhihu&style=social">
-	</a>&nbsp;
+
 # PaperWeeklyAI
 
 
