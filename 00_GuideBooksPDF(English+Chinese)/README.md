@@ -23,24 +23,19 @@
   </a>
 </p>
 
-
+<!--
 # Classification
 ## CS
 ### OPERATE 操作系统
-
 ### PL 编程语言
-
 ### NETWORK 网络
-
 ### ALGORITHM 算法
-
 ## AI
 ### ML 机器学习
-
-
 ### DL 深度学习
+-->
 
-
+<br>
 
 # License
 
