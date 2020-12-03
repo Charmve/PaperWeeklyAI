@@ -1,7 +1,7 @@
 # Open Source eBooks PDF 
 
 
-<a href="https://github.com/Charmve" target="_blank">Charmve</a> | English | <a href="ReadmeChinese.md" target="_blank">Chinese</a>
+<a href="https://github.com/Charmve" target="_blank">Charmve</a> | English | <a href="https://ufund-me.github.io/404.html" target="_blank">Chinese</a>
 
 <div align="center">
     <img src="https://github.com/Charmve/OpenCS-Courses/raw/main/extras/Logo.png" width="200px">
