@@ -24,7 +24,7 @@
 </p>
 
 <!--
-# Classification
+# Categories
 ## CS
 ### OPERATE 操作系统
 ### PL 编程语言
