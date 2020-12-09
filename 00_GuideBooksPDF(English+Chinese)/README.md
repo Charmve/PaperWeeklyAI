@@ -32,7 +32,7 @@
 
 - 深入理解计算机系统（原书第3版）.[美]Randal E.Bryant(详细书签)    [[view]() | [download](https://pan.baidu.com/s/1i3oB7vMzeAXzOLFAUKOtlw) ``提取码：vn4t``]
 
-- Randal E. Bryant, David R. O’Hallaron - Computer Systems. A Programmer’s Perspective [[3rd ed.] (2016, Pearson).pdf  |  [view](https://github.com/Charmve/PaperWeeklyAI/blob/master/00_GuideBooksPDF(English%2BChinese)/04_Network%26Linux%E7%BD%91%E7%BB%9C%E4%B8%8ELinux/Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D%20(2016%2C%20Pearson).pdf) | [download](https://github.com/Charmve/PaperWeeklyAI/raw/master/00_GuideBooksPDF(English%2BChinese)/04_Network%26Linux%E7%BD%91%E7%BB%9C%E4%B8%8ELinux/Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D%20(2016%2C%20Pearson).pdf)]
+- Randal E. Bryant, David R. O’Hallaron - Computer Systems. A Programmer’s Perspective [3rd ed.] (2016, Pearson)  [[view](https://github.com/Charmve/PaperWeeklyAI/blob/master/00_GuideBooksPDF(English%2BChinese)/04_Network%26Linux%E7%BD%91%E7%BB%9C%E4%B8%8ELinux/Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D%20(2016%2C%20Pearson)) | [download](https://github.com/Charmve/PaperWeeklyAI/raw/master/00_GuideBooksPDF(English%2BChinese)/04_Network%26Linux%E7%BD%91%E7%BB%9C%E4%B8%8ELinux/Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D%20(2016%2C%20Pearson))]
 
 - Modern Operating Systems 4th Edition--Andrew Tanenbaum  [[view](https://github.com/Charmve/PaperWeeklyAI/blob/master/00_GuideBooksPDF(English%2BChinese)/04_Network%26Linux%E7%BD%91%E7%BB%9C%E4%B8%8ELinux/Modern%20Operating%20Systems%204th%20Edition--Andrew%20Tanenbaum.pdf) | [download](https://github.com/Charmve/PaperWeeklyAI/raw/master/00_GuideBooksPDF(English%2BChinese)/04_Network%26Linux%E7%BD%91%E7%BB%9C%E4%B8%8ELinux/Modern%20Operating%20Systems%204th%20Edition--Andrew%20Tanenbaum.pdf)]
 
@@ -50,7 +50,7 @@
 
 - 架构之美   [[view]() | [download](https://pan.baidu.com/s/16WcoEv1Gml3e6RHf55OyWw) ``提取码：39n1``]
 
-- 编程珠玑(Programming Pearls).pdf [[view](https://github.com/Charmve/PaperWeeklyAI/blob/master/00_GuideBooksPDF(English%2BChinese)/02_Programing%26Algorithm%E7%BC%96%E7%A8%8B%E4%B8%8E%E7%AE%97%E6%B3%95/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91(Programming%20Pearls).pdf) | [download](https://github.com/Charmve/PaperWeeklyAI/raw/master/00_GuideBooksPDF(English%2BChinese)/02_Programing%26Algorithm%E7%BC%96%E7%A8%8B%E4%B8%8E%E7%AE%97%E6%B3%95/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91(Programming%20Pearls).pdf)]
+- 编程珠玑(Programming Pearls) [[view](https://github.com/Charmve/PaperWeeklyAI/blob/master/00_GuideBooksPDF(English%2BChinese)/02_Programing%26Algorithm%E7%BC%96%E7%A8%8B%E4%B8%8E%E7%AE%97%E6%B3%95/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91(Programming%20Pearls).pdf) | [download](https://github.com/Charmve/PaperWeeklyAI/raw/master/00_GuideBooksPDF(English%2BChinese)/02_Programing%26Algorithm%E7%BC%96%E7%A8%8B%E4%B8%8E%E7%AE%97%E6%B3%95/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91(Programming%20Pearls).pdf)]
 
 #### PL 编程语言
 
@@ -116,6 +116,8 @@
 ## License
 
 <strong>RESPECT</strong> Purpose only! Do not use for business! Just for reaserch & academic! 
+
+禁止一切非学术性传播！
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
