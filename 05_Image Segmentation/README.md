@@ -4,7 +4,7 @@ Curated Top 10 ImgSegmentation papers, including paper code and datasets. ⚙️
 
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) 
-[![Summaries](https://img.shields.io/badge/summaries-in%20tweets-%2300acee.svg?style=flat)](https://github.com/Charmve/PaperWeeklyAI/issues) ![HitCount](http://hits.dwyl.com/eugeneyan/applied-ml.svg)
+[![Summaries](https://img.shields.io/badge/summaries-in%20issues-%2300acee.svg?style=flat)](https://github.com/Charmve/PaperWeeklyAI/issues) ![HitCount](http://hits.dwyl.com/eugeneyan/applied-ml.svg)
 [![PyTorch Code](https://img.shields.io/badge/code-PyTorch-%2300acee.svg?style=flat)](https://github.com/Charmve/Semantic-Segmentation-PyTorch)
 <br>
 
