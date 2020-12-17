@@ -145,7 +145,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [07.港中文周博磊团队最新研究：无监督条件下GAN潜在语义识别指南](https://mp.weixin.qq.com/s/DceIjUs2SOV47dbwpxeAIQ) | ⭐⭐⭐ |  |  |
 | [08.一张“静态”图实现3D人脸建模！这是中科院博士生入选ECCV的新研究(开源)](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    |
 | [09.ECCV 2020:再见，迁移学习？可解释和泛化的行人再辨识](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |  |    |
-| [10.检测、重识别为啥很难一步到位？华中科技大、微软深入挖掘，新方法实现新SOTA](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    ||    |
+| [10.检测、重识别为啥很难一步到位？华中科技大、微软深入挖掘，新方法实现新SOTA](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    |
 | [11.无需标注数据集，自监督注意力机制就能搞定目标跟踪](https://mp.weixin.qq.com/s/xLq_O6EdFstE--MtSjq2Eg) | ⭐⭐⭐⭐ |  |    |
 | [12.准确检测DeepFake视频，阿里新算法从多个人物中识别被篡改的人脸](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    |
 | [13.CVPR 2020最佳学生论文分享回顾：通过二叉空间分割（BSP）生成紧凑3D网格](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    |
