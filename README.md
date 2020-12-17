@@ -1,10 +1,12 @@
 <div id="outputFigDisplay" class="fig">
-    <pre id="taag_output_text" style="float:left;" class="flag" contenteditable="true">
+    <pre id="taag_output_text" style="left;" class="flag" contenteditable="true">
+    <code>
     __  ___      _               _ ___    ____                             
    /  |/  /___ _(_)      _____  (_)   |  /  _/    _________  ____ ___      
   / /|_/ / __ `/ / | /| / / _ \/ / /| |  / /_____/ ___/ __ \/ __ `__ \     
  / /  / / /_/ / /| |/ |/ /  __/ / ___ |_/ /_____/ /__/ /_/ / / / / / /     
 /_/  /_/\__,_/_/ |__/|__/\___/_/_/  |_/___/     \___/\____/_/ /_/ /_/      
+    </code>
     </pre>
 </div>
 
