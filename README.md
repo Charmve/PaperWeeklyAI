@@ -79,6 +79,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 
 
 <br>
+[BACK to Contents -->](#本项目包括)
 
 ## 计算机视觉论文
 
@@ -107,6 +108,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [18.滑动窗口也能用于实例分割，陈鑫磊、何恺明等人提出图像分割新范式](https://mp.weixin.qq.com/s/IwMSbixNrb9fW7AuKB79MA) | ⭐⭐⭐⭐⭐ |  |    |
 
 <br>
+[BACK to Contents -->](#本项目包括)
 
 ## 机器学习/深度学习理论
 
@@ -129,6 +131,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [12.预、自训练之争：谷歌说预训练虽火，但在标注数据上自训练更有效](https://github.com/Charmve/PaperWeeklyAI/tree/master/03_Maiwei%20AI%20PaperWeekly) | ⭐⭐⭐ |  |    |
 
 <br>
+[BACK to Contents -->](#本项目包括)
 
 ## 机器学习实战篇
 <div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
@@ -147,6 +150,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [09.你还在手动调参？自动化深度学习了解一下！(CVPR2020 Tutorial)](https://github.com/Charmve) | ⭐⭐⭐⭐ |  |    |
 
 <br>
+[BACK to Contents -->](#本项目包括)
 
 ## AI进阶指南
 <div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
@@ -165,6 +169,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [09.机器学习/数据科学从入门到精通：必经的5个阶段，你处于那个阶段？](https://github.com/Charmve) | ⭐⭐⭐ |  |    |
 
 <br>
+[BACK to Contents -->](#本项目包括)
 
 ## 迈微AI前沿(精选)
 
@@ -185,9 +190,11 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [11.改改Python代码，运行速度还能提升6万倍，Science：先别想摩尔定律了](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐ |  |    |
 | [12.量子计算机遇到新对手？随机磁电路，因数分解更厉害](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐⭐ |  |    |
 | [13.微软获GPT-3独家授权，可访问底层代码，Open AI：API用户可继续使用](https://mp.weixin.qq.com/s/I8-_05xHTOKXRNUKfssMJg) | ⭐⭐⭐⭐ |  |    |
-| [13.黑科技DeepFake检测方法：利用心跳做信号，还能「揪出」造假模型](https://mp.weixin.qq.com/s/es0kKbWqclhfEdFL5w8_pg) | ⭐⭐⭐⭐ |  |    |
+| [14.黑科技DeepFake检测方法：利用心跳做信号，还能「揪出」造假模型](https://mp.weixin.qq.com/s/es0kKbWqclhfEdFL5w8_pg) | ⭐⭐⭐⭐ |  |    |
 
 <br>
+[BACK to Contents -->](#本项目包括)
+
 
 想要获得更多精彩内容，请关注微信公众号：迈微AI研习社
 
