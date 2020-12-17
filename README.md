@@ -132,8 +132,8 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [11.深度学习中“消失的梯度”](https://github.com/Charmve/PaperWeeklyAI/tree/master/03_Maiwei%20AI%20PaperWeekly) | ⭐⭐⭐ |  |    |
 | [12.预、自训练之争：谷歌说预训练虽火，但在标注数据上自训练更有效](https://github.com/Charmve/PaperWeeklyAI/tree/master/03_Maiwei%20AI%20PaperWeekly) | ⭐⭐⭐ |  |    |
 
+[👆 <strong>BACK to Contents --> </strong>](#本项目包括)
 <br>
-[<b>BACK to Contents --></b>](https://github.com/Charmve/PaperWeeklyAI#%E6%9C%AC%E9%A1%B9%E7%9B%AE%E5%8C%85%E6%8B%AC)
 
 ## 机器学习实战篇
 <div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
