@@ -133,6 +133,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [12.预、自训练之争：谷歌说预训练虽火，但在标注数据上自训练更有效](https://github.com/Charmve/PaperWeeklyAI/tree/master/03_Maiwei%20AI%20PaperWeekly) | ⭐⭐⭐ |  |    |
 
 [👆 <strong>BACK to Contents --> </strong>](#本项目包括)
+
 <br>
 
 ## 机器学习实战篇
