@@ -203,7 +203,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 [👆 <strong>BACK to Contents --> </strong>](#本项目包括)
 
 <br>
-想要获得更多精彩内容，请关注微信公众号：迈微AI研习社
+想要获得更多精彩内容，请关注微信公众号：迈微AI研习社<br>
 
 <br>
 <div align=center>
