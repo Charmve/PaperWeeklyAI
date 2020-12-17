@@ -79,7 +79,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
       <td style="text-align: left">📝 <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/00_GuideBooksPDF(English%2BChinese)">电子书：编程与算法</a></td>
       <td style="text-align: left">📺 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Linux">专栏：学习linux</a></td>
       <td style="text-align: left">🚀 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Python">面试：Python</a></td>
-      <td> </td>
+      <td style="text-align: left">✏️ <a href="https://github.com/Charmve/LeetCode4FLAG">刷题：LeetCode4FLAG</a></td>
     </tr>
     <tr>
       <td style="text-align: left">🎅 <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/00_GuideBooksPDF(English%2BChinese)/06_CVPR2020%E8%AE%BA%E6%96%8730%E7%AF%87">CVPR2020论文30篇</a></td>
