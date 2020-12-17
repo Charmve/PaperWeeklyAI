@@ -109,7 +109,8 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [18.滑动窗口也能用于实例分割，陈鑫磊、何恺明等人提出图像分割新范式](https://mp.weixin.qq.com/s/IwMSbixNrb9fW7AuKB79MA) | ⭐⭐⭐⭐⭐ |  |    |
 
 <br>
-[<b>BACK to Contents --></b>](https://github.com/Charmve/PaperWeeklyAI#%E6%9C%AC%E9%A1%B9%E7%9B%AE%E5%8C%85%E6%8B%AC)
+
+[👆 <strong>BACK to Contents --> </strong>](#本项目包括)
 
 ## 机器学习/深度学习理论
 
@@ -151,7 +152,8 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [09.你还在手动调参？自动化深度学习了解一下！(CVPR2020 Tutorial)](https://github.com/Charmve) | ⭐⭐⭐⭐ |  |    |
 
 <br>
-[<b>BACK to Contents --></b>](https://github.com/Charmve/PaperWeeklyAI#%E6%9C%AC%E9%A1%B9%E7%9B%AE%E5%8C%85%E6%8B%AC)
+
+[👆 <strong>BACK to Contents --> </strong>](#本项目包括)
 
 ## AI进阶指南
 <div class="divcss5" color="lightblue">（点击标题可跳转阅读）</div>
@@ -170,7 +172,8 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [09.机器学习/数据科学从入门到精通：必经的5个阶段，你处于那个阶段？](https://github.com/Charmve) | ⭐⭐⭐ |  |    |
 
 <br>
-[<b>BACK to Contents --></b>](https://github.com/Charmve/PaperWeeklyAI#%E6%9C%AC%E9%A1%B9%E7%9B%AE%E5%8C%85%E6%8B%AC)
+
+[👆 <strong>BACK to Contents --> </strong>](#本项目包括)
 
 ## 迈微AI前沿(精选)
 
@@ -194,7 +197,8 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [14.黑科技DeepFake检测方法：利用心跳做信号，还能「揪出」造假模型](https://mp.weixin.qq.com/s/es0kKbWqclhfEdFL5w8_pg) | ⭐⭐⭐⭐ |  |    |
 
 <br>
-[<b>BACK to Contents --></b>](https://github.com/Charmve/PaperWeeklyAI#%E6%9C%AC%E9%A1%B9%E7%9B%AE%E5%8C%85%E6%8B%AC)
+
+[👆 <strong>BACK to Contents --> </strong>](#本项目包括)
 
 
 想要获得更多精彩内容，请关注微信公众号：迈微AI研习社
