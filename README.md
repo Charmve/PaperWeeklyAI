@@ -206,8 +206,9 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 想要获得更多精彩内容，请关注微信公众号：迈微AI研习社
 
 <br>
-
-<div align=center><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkNYNmZrQ0lCQzJTZWxvYjdrdUNQZVJtcXJYMmw5NHRoTE1Id0pWUENhSVVuR3pQMW5ncDVCMkRvRTVaUDFGSW01dm9OeUIycXMwOWcvNjQw?x-oss-process=image/format,png" ></div>
+<div align=center>
+    <img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkNYNmZrQ0lCQzJTZWxvYjdrdUNQZVJtcXJYMmw5NHRoTE1Id0pWUENhSVVuR3pQMW5ncDVCMkRvRTVaUDFGSW01dm9OeUIycXMwOWcvNjQw?x-oss-process=image/format,png" >
+</div>
 <br>
 <div align=center size = 3><b>PaperWeeklyAI</b></div>
 <br>
