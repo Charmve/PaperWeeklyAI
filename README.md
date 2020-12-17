@@ -23,7 +23,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
     紧跟前沿科研动态，每周研读论文！
 </p>
 
-<div align=center><img src="https://github.com/Charmve/PaperWeeklyAI/blob/master/MaiweiAI-com.png?raw=true" height="330" width="330"></div>
+<div align=center><img src="./MaiweiAI-com.png" height="330" width="330"></div>
 
 <div align=center size = 3><b>△微信扫一扫，关注我</b></div>
 <br>
@@ -67,13 +67,16 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | Title | 推荐指数 | 推荐理由 | 时间 |
 |   --- |       ---|       ---|  ---|
 | [01.李航等提出多粒度AMBERT模型，CLUE、GLUE上优于BERT，中文提升显著](https://github.com/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/01_NLP%E8%AE%BA%E6%96%87%E7%A0%94%E8%AF%BB/01_%E6%9D%8E%E8%88%AA%E7%AD%89%E6%8F%90%E5%87%BA%E5%A4%9A%E7%B2%92%E5%BA%A6AMBERT%E6%A8%A1%E5%9E%8B%EF%BC%8CCLUE%E3%80%81GLUE%E4%B8%8A%E4%BC%98%E4%BA%8EBERT%EF%BC%8C%E4%B8%AD%E6%96%87%E6%8F%90%E5%8D%87%E6%98%BE%E8%91%97.md) | ⭐⭐⭐⭐⭐|  |  |
-| [02.常识知识确能被捕获，西湖大学博士探究BERT如何做常识问答](https://github.com/Charmve/PaperWeeklyAI/tree/master/04_AppliedML)| ⭐⭐⭐⭐ |  |  |     
-| [03.图同构下等变、计算高效，韦灵思团队提出「自然图网络」消息传递方法](https://github.com/Charmve/PaperWeeklyAI/tree/master/04_AppliedML) | ⭐⭐⭐ |   |  |
+| [02.常识知识确能被捕获，西湖大学博士探究BERT如何做常识问答](https://mp.weixin.qq.com/s/QrSdz87mDryLz9eqLDKKTA)| ⭐⭐⭐⭐ |  |  |     
+| [03.图同构下等变、计算高效，韦灵思团队提出「自然图网络」消息传递方法](https://mp.weixin.qq.com/s/DIaCZy3thhiD-34GiOEPSw) | ⭐⭐⭐ |   |  |
 | [04.7 Papers&Radios：SIGIR 2020奖项揭晓;谷歌β-LASSO算法实现最强多层感知机？](https://github.com/Charmve/PaperWeeklyAI/tree/master/04_AppliedML) | ⭐⭐⭐ |   |   |
 | [05.文本深度表示模型——word2vec&doc2vec词向量模型](https://github.com/Charmve/PaperWeeklyAI/tree/master/04_AppliedML) | ⭐⭐ |   |   |
 | [06.自媒体文章质量如何AI知道，这是微信的自动评估算法](https://github.com/Charmve/PaperWeeklyAI/tree/master/04_AppliedML) | ⭐⭐⭐⭐ |  |  |
 | [07.图注意力网络一作：图表征学习在算法推理领域的研究进展](https://github.com/Charmve/PaperWeeklyAI/tree/master/04_AppliedML) | ⭐⭐⭐ |  |  |
 | [08.谷歌用算力爆了一篇论文，解答有关无限宽度网络的一切](https://github.com/Charmve/PaperWeeklyAI/tree/master/04_AppliedML) | ⭐⭐⭐ |  |    |
+| [09.腾讯QQ看点团队：用迁移学习架构解决短视频冷启推荐问题](https://mp.weixin.qq.com/s/QDMRCqijE5mbkZyNFdTX_g) | ⭐⭐⭐ |  |    |
+| [10.什么是优秀的图表示？斯坦福提出首个信息论原则——图信息瓶颈](https://mp.weixin.qq.com/s/Sh-Qf6r5y3sdJ-RI8G9Pxg) | ⭐⭐⭐⭐ |  |    |
+
 
 <br>
 
@@ -88,17 +91,20 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [02.支付宝夺冠CVPR 细粒度视觉分类挑战赛：数据增强+知识蒸馏，效果大幅提升](https://github.com/Charmve/Mirror-Glass-Detection)| ⭐⭐⭐⭐⭐ |  |  |     
 | [03.李飞飞团队最新研究，真实场景中识别物体具体属性，连表面纹理都识别出来了](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐⭐ |   |  |
 | [04.CVPR2020：真实场景中的玻璃检测，有趣的应用](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐⭐ |   |   |
-| [05.表面缺陷检测数据集汇总及其相关项目推荐](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐⭐⭐ |   |   |
+| [05.表面缺陷检测数据集汇总及其相关项目推荐](https://mp.weixin.qq.com/s/NyvOwFIanm-j9MIcA07mLw) | ⭐⭐⭐⭐⭐ |   |   |
 | [06.检测、重识别为啥很难一步到位？华中科技大、微软深入挖掘，新方法实现新SOTA](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐⭐ |  |  |
-| [07.港中文周博磊团队最新研究：无监督条件下GAN潜在语义识别指南](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |  |
+| [07.港中文周博磊团队最新研究：无监督条件下GAN潜在语义识别指南](https://mp.weixin.qq.com/s/DceIjUs2SOV47dbwpxeAIQ) | ⭐⭐⭐ |  |  |
 | [08.一张“静态”图实现3D人脸建模！这是中科院博士生入选ECCV的新研究(开源)](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    |
 | [09.ECCV 2020:再见，迁移学习？可解释和泛化的行人再辨识](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |  |    |
 | [10.检测、重识别为啥很难一步到位？华中科技大、微软深入挖掘，新方法实现新SOTA](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    ||    |
-| [11.无需标注数据集，自监督注意力机制就能搞定目标跟踪](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐⭐ |  |    |
+| [11.无需标注数据集，自监督注意力机制就能搞定目标跟踪](https://mp.weixin.qq.com/s/xLq_O6EdFstE--MtSjq2Eg) | ⭐⭐⭐⭐ |  |    |
 | [12.准确检测DeepFake视频，阿里新算法从多个人物中识别被篡改的人脸](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    |
 | [13.CVPR 2020最佳学生论文分享回顾：通过二叉空间分割（BSP）生成紧凑3D网格](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐ |  |    |
 | [14.卷积神经网络必读的40篇经典论文，包含检测/识别/分类/分割多个领域](https://github.com/Charmve/Mirror-Glass-Detection) | ⭐⭐⭐⭐ |  |    |
-| [15.Kaggle X光肺炎检测比赛第二名方案解析 CVPR 2020 Workshop](https://github.com/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/02_%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E8%AE%BA%E6%96%87/%E2%80%8BKaggle%20X%E5%85%89%E8%82%BA%E7%82%8E%E6%A3%80%E6%B5%8B%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%90%8D%E6%96%B9%E6%A1%88%E8%A7%A3%E6%9E%90%20%7C%20CVPR%202020%20Workshop.md) | ⭐⭐⭐⭐ |  |    |
+| [15.CVPR2020丨SPSR：基于梯度指导的结构保留超分辨率方法](https://mp.weixin.qq.com/s/cfyd9CLnR-A89tSfuJI-_Q) | ⭐⭐⭐ |  |    |
+| [16.Kaggle X光肺炎检测比赛第二名方案解析 CVPR 2020 Workshop](https://github.com/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/02_%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E8%AE%BA%E6%96%87/%E2%80%8BKaggle%20X%E5%85%89%E8%82%BA%E7%82%8E%E6%A3%80%E6%B5%8B%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%90%8D%E6%96%B9%E6%A1%88%E8%A7%A3%E6%9E%90%20%7C%20CVPR%202020%20Workshop.md) | ⭐⭐⭐⭐ |  |    |
+| [17.给AI一张高清照片，分分钟还你细节满满的3D人体模型，GitHub标星4.4k (在线可玩)](https://mp.weixin.qq.com/s/yDw5k-zVt3YZYZZ-GEVJ3Q) | ⭐⭐⭐⭐⭐ |  |    |
+| [18.滑动窗口也能用于实例分割，陈鑫磊、何恺明等人提出图像分割新范式](https://mp.weixin.qq.com/s/IwMSbixNrb9fW7AuKB79MA) | ⭐⭐⭐⭐⭐ |  |    |
 
 <br>
 
@@ -178,7 +184,8 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [10.Science：AI领域那么多引人注目的「进展」，竟是无用功](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐⭐ |  |    |
 | [11.改改Python代码，运行速度还能提升6万倍，Science：先别想摩尔定律了](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐ |  |    |
 | [12.量子计算机遇到新对手？随机磁电路，因数分解更厉害](https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control) | ⭐⭐⭐⭐ |  |    |
-
+| [13.微软获GPT-3独家授权，可访问底层代码，Open AI：API用户可继续使用](https://mp.weixin.qq.com/s/I8-_05xHTOKXRNUKfssMJg) | ⭐⭐⭐⭐ |  |    |
+| [13.黑科技DeepFake检测方法：利用心跳做信号，还能「揪出」造假模型](https://mp.weixin.qq.com/s/es0kKbWqclhfEdFL5w8_pg) | ⭐⭐⭐⭐ |  |    |
 
 <br>
 
