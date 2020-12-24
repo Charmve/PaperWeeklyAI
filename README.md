@@ -30,12 +30,6 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 <div align=center size = 3><b>△微信扫一扫，关注我</b></div>
 <br>
 
-## 🍮 Community
-- Github <a href="https://github.com/Charmve/AccANN/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/AccANN/issues" target="_blank">issues 💭</a>
-
-- QQ Group: 697948168 (password：AccANN)
-- Email: yidazhang#gmail.com 
-
 从今年三月份开始，我将开源的方向调整为机器学习、计算机视觉、深度学习、NLP、AI前沿技术动态的相关文章发布，从入门学习指导（我自己的机器学习路线总结，入过很多坑）到现在的顶会论文总结、前沿论文研读。公众号主页底部有菜单分类。
 
 <div align=center><img src="https://github.com/ChromeWei/PaperWeeklyAI/blob/master/Menu-MaiweiAI.jpg?raw=true" ></div>
@@ -267,3 +261,9 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 <div align=center size = 3><b>PaperWeeklyAI</b></div>
 <br>
 <div align=center>△微信扫一扫，关注我</div>
+
+## 🍮 Community
+- Github <a href="https://github.com/Charmve/AccANN/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/AccANN/issues" target="_blank">issues 💭</a>
+
+- QQ Group: 1042054445 迈微机器学习交流群
+- Email: yidazhang#gmail.com 
