@@ -251,8 +251,14 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 
 [👆 <strong>BACK to Contents --> </strong>](#本项目包括)
 
+## 🍮 Community
+- Github <a href="https://github.com/Charmve/AccANN/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/AccANN/issues" target="_blank">issues 💭</a>
+
+- QQ Group: 1042054445 迈微机器学习交流群
+- Email: yidazhang#gmail.com 
+
 <br>
-想要获得更多精彩内容，请关注微信公众号：<b>迈微AI研习社<br>
+想要获得更多精彩内容，请关注微信公众号：<b>迈微AI研习社</b><br>
 
 <br>
 <div align=center>
@@ -261,9 +267,3 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 <div align=center size = 3><b>PaperWeeklyAI</b></div>
 <br>
 <div align=center>△微信扫一扫，关注我</div>
-
-## 🍮 Community
-- Github <a href="https://github.com/Charmve/AccANN/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/AccANN/issues" target="_blank">issues 💭</a>
-
-- QQ Group: 1042054445 迈微机器学习交流群
-- Email: yidazhang#gmail.com 
