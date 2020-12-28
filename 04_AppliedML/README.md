@@ -14,7 +14,8 @@ Figuring out how to implement your ML project? Learn how other organizations did
 
 P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/Charmve/PaperWeeklyAI/tree/master/06_ML-Surveys)
 
-**Table of Contents**
+
+## Table of Contents
 
 1. [Data Quality](#data-quality)
 2. [Data Engineering](#data-engineering)
