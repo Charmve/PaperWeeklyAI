@@ -6,13 +6,14 @@ Curated Top 10 ImgSegmentation papers, including paper code and datasets. ⚙️
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) 
 [![Summaries](https://img.shields.io/badge/summaries-in%20issues-%2300acee.svg?style=flat)](https://github.com/Charmve/PaperWeeklyAI/issues) ![HitCount](http://hits.dwyl.com/eugeneyan/applied-ml.svg)
 [![PyTorch Code](https://img.shields.io/badge/code-PyTorch-%2300acee.svg?style=flat)](https://github.com/Charmve/Semantic-Segmentation-PyTorch)
+
 <br>
 
 > ## 迈微导读
 > 图像分割（image segmentation）技术是计算机视觉领域的重要的研究方向，近些年，图像分割技术迅猛发展，在多个视觉研究领域都有着广泛的应用。本文盘点了近20年来影响力最大的 10 篇论文。
-> <br><i><b>注：</b>这里的影响力以 Web of Science 上显示的论文的引用量排序，截止时间为``2020年9月27日``。</i>
+> <br><br><i><b>注：</b>这里的影响力以 Web of Science 上显示的论文的引用量排序，截止时间为``2020年9月27日``。</i>
 
-<br>
+
 
 ## -TOP10-   <b>Mask R-CNN</b> 
 被引频次：1839
