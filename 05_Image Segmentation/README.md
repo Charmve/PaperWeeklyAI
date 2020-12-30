@@ -9,9 +9,7 @@ Curated Top 10 ImgSegmentation papers, including paper code and datasets. ⚙️
 <br>
 
 > ## 迈微导读
-
 > 图像分割（image segmentation）技术是计算机视觉领域的重要的研究方向，近些年，图像分割技术迅猛发展，在多个视觉研究领域都有着广泛的应用。本文盘点了近20年来影响力最大的 10 篇论文。
-
 > <i><b>注：</b>这里的影响力以 Web of Science 上显示的论文的引用量排序，截止时间为``2020年9月27日``。</i>
 
 <br>
