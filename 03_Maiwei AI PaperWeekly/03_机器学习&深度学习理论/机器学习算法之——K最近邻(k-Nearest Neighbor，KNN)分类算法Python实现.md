@@ -142,7 +142,7 @@ print(" datingDataMat \n " , datingDataMat," \n")
 print(" datingLabels \n" , datingLabels[0:20])
 ```
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229221002160.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229221002160.png#pic_center)
 
  ### 4.2.2  分析数据：使用Matplotlib创建散点图
 
@@ -161,7 +161,7 @@ plt.show()
 ```
  散点图使用datingDataMat矩阵的第二、三列数据，分别表示特征值“玩视频游戏所耗时间比”
  
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020022922105288.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020022922105288.png#pic_center)
 
 ### 4.2.3  准备数据：归一化数值
 
@@ -198,7 +198,7 @@ print("minVals: \n", minVals)
 
 测试结果：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229221204200.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229221204200.png#pic_center)
 
 ### 4.2.4  测试算法：作为完整程序验证分类器
 测试代码:
@@ -226,7 +226,7 @@ datingClassTest()   #测试分类器的正确率 测试算法
 ```
 测试结果：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229221246751.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229221246751.png#pic_center)
 
 分类器处理约会数据集的错误率是<font color =red > 6%。
 
@@ -253,7 +253,7 @@ classifyPerson()
 ```
 测试结果：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229221347985.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229221347985.png#pic_center)
 
 # 5. k-近邻算法示例2
 **示例2：手写字识别系统**
@@ -303,7 +303,7 @@ print(testVector[0,0:22])
 ### 5.2.2  测试算法：使用k-近邻算法识别手写数字
 
 测试函数：    
-      ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229221603588.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+      ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229221603588.png#pic_center)
 
 错误率为<font color = red > 1.2%。</font>
 
@@ -329,13 +329,13 @@ print(testVector[0,0:22])
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229223432467.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70)
 
-<font color = red>**关注微信公众号：迈微电子研发社，回复 “KNN” 获取本博客相关工程及数据文件[Github开源项目]。**
+<font color = red>**关注微信公众号：迈微AI研习社，回复 “KNN” 获取本博客相关工程及数据文件[Github开源项目]。**
 
 <div align=center>
      <img src="https://img-blog.csdnimg.cn/20200224183312714.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
 </div>
 <p align=center>
-     △微信扫一扫关注「迈微电子研发社」公众号
+     △微信扫一扫关注「迈微AI研习社」公众号
 </p>
 
 <font color = redd>知识星球：社群旨在分享AI算法岗的秋招/春招准备攻略（含刷题）、面经和内推机会、学习路线、知识题库等。
@@ -343,7 +343,7 @@ print(testVector[0,0:22])
   <img src="https://img-blog.csdnimg.cn/20200225182015550.png">
 </div>
 <p align=center>
-     △扫码加入「迈微电子研发社」学习辅导群
+     △扫码加入「迈微AI研习社」学习辅导群
 </p>
 
 <div align=center>
