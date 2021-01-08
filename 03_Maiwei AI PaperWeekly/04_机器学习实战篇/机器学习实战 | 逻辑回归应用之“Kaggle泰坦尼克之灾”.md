@@ -3,7 +3,7 @@
 > 作者： 寒小阳
 时间：2015年11月。
 出处：http://blog.csdn.net/han_xiaoyang/article/details/49797143<p>
-**内容首发于公众号：迈微电子研发社**
+**内容首发于公众号：迈微AI研习社**
 
 <br>
 
