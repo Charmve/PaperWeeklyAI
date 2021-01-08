@@ -1,10 +1,5 @@
 # 01_李航等提出多粒度AMBERT模型，CLUE、GLUE上优于BERT，中文提升显著
 
-点击上方“迈微电子研发社”，选择“星标★”公众号
-
-重磅干货，第一时间送达
-
-
 
 自谷歌 BERT 模型问世以来，各式各样的 BERT 变体模型在自然语言理解任务上大显身手。近日，字节跳动 AI 实验室李航等研究者提出了一种新型多粒度 BERT 模型，该模型在 CLUE 和 GLUE 任务上的性能超过了谷歌 BERT、Albert、XLNet 等。
 
@@ -18,7 +13,7 @@ BERT 等预训练语言模型在自然语言理解（Natural Language Understand
 
 
 
-论文链接：https://arxiv.org/pdf/2008.11869.pdf
+- 论文链接：https://arxiv.org/pdf/2008.11869.pdf
 
 研究团队已经在一些中文和英文的基准数据集（包括 CLUE、GLUE、SQuAD 和 RACE）上进行了实验。实验结果表明，AMBERT 的性能几乎在所有情况下都优于现有的最佳性能模型。尤其是对于中文而言，AMBERT 的提升效果显著。
 
