@@ -238,7 +238,7 @@ RetinaNet的框架整体是ResNet+FPN+FCN，它使用ResNet作为backbone来提�
 <br>
 
 
-关注公众号迈微电子研发社，文章首发于公众号。
+关注公众号<b>迈微AI研习社</b>，文章首发于公众号。
 
 
 <div align=center>
@@ -246,7 +246,7 @@ RetinaNet的框架整体是ResNet+FPN+FCN，它使用ResNet作为backbone来提�
 </div>
 
 <p align=center>
-     △微信扫一扫关注「迈微电子研发社」公众号
+     △微信扫一扫关注「迈微AI研习社」公众号
 </p>
 
 <font color = redd>知识星球：社群旨在分享AI算法岗的秋招/春招准备攻略（含刷题）、面经和内推机会、学习路线、知识题库等。
@@ -254,7 +254,7 @@ RetinaNet的框架整体是ResNet+FPN+FCN，它使用ResNet作为backbone来提�
   <img src="https://img-blog.csdnimg.cn/20200225182015550.png">
 </div>
 <p align=center>
-     △扫码加入「迈微电子研发社」学习辅导群
+     △扫码加入「迈微AI研习社」学习辅导群
 </p>
 
 <div align=center>
