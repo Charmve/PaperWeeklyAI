@@ -55,7 +55,7 @@ $$r =  d(x_i,x_j)=\sqrt{\sum\nolimits_{i=1}^{n} [a_r(x_i)−a_r(x_j)]^2} $$
 > - 返回
 >-  其中如果a=b那么d(a,b)=1，否则d(a,b)=0
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020022918153897.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020022918153897.png#pic_center)
 
 简单来说，KNN可以看成：有那么一堆你已经知道分类的数据，然后当一个新数据进入的时候，就开始跟训练数据里的每个点求距离，然后挑离这个训练数据最近的K个点看看这几个点属于什么类型，然后用少数服从多数的原则，给新数据归类。
 
@@ -68,7 +68,7 @@ $$r =  d(x_i,x_j)=\sqrt{\sum\nolimits_{i=1}^{n} [a_r(x_i)−a_r(x_j)]^2} $$
 
 下图则图解了一种简单情况下的k-最近邻算法，在这里实例是二维空间中的点，目标函数具有布尔值。正反训练样例用“+”和“-”分别表示。图中也画出了一个查询点xq。注意在这幅图中，1-近邻算法把xq分类为正例，然而5-近邻算法把xq分类为反例。
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229181655343.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229181655343.png#pic_center)
 
 **图解说明：** 左图画出了一系列的正反训练样例和一个要分类的查询实例xq。1-近邻算法把xq分类为正例，然而5-近邻算法把xq分类为反例。
 右图是对于一个典型的训练样例集合1-近邻算法导致的决策面。围绕每个训练样例的凸多边形表示最靠近这个点的实例空间（即这个空间中的实例会被1-近邻算法赋予该训练样例所属的分类）。
@@ -427,13 +427,13 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200229223432467.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70)
 
-<font color = red>**关注微信公众号：迈微电子研发社，回复 “KNN” 获取本博客相关工程及数据文件[Github开源项目]。**
+<font color = red>**关注微信公众号：迈微AI研习社，回复 “KNN” 获取本博客相关工程及数据文件[Github开源项目]。**
 
 <div align=center>
      <img src="https://img-blog.csdnimg.cn/20200224183312714.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
 </div>
 <p align=center>
-     △微信扫一扫关注「迈微电子研发社」公众号
+     △微信扫一扫关注「迈微AI研习社」公众号
 </p>
 
 <font color = redd>知识星球：社群旨在分享AI算法岗的秋招/春招准备攻略（含刷题）、面经和内推机会、学习路线、知识题库等。
@@ -441,7 +441,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_
   <img src="https://img-blog.csdnimg.cn/20200225182015550.png">
 </div>
 <p align=center>
-     △扫码加入「迈微电子研发社」学习辅导群
+     △扫码加入「迈微AI研习社」学习辅导群
 </p>
 
 <div align=center>
