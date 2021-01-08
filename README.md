@@ -125,8 +125,10 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [08.谷歌用算力爆了一篇论文，解答有关无限宽度网络的一切](https://github.com/Charmve/PaperWeeklyAI/tree/master/04_AppliedML) | ⭐⭐⭐ |  |    |
 | [09.腾讯QQ看点团队：用迁移学习架构解决短视频冷启推荐问题](https://mp.weixin.qq.com/s/QDMRCqijE5mbkZyNFdTX_g) | ⭐⭐⭐ |  |    |
 | [10.什么是优秀的图表示？斯坦福提出首个信息论原则——图信息瓶颈](https://mp.weixin.qq.com/s/Sh-Qf6r5y3sdJ-RI8G9Pxg) | ⭐⭐⭐⭐ |  |    |
-
-
+| [11.王者荣耀AI绝悟完全体对战开启：英雄随便选，论文已被NeurIPS收录](https://mp.weixin.qq.com/s/XWBekoBl47MjOoUWiyv_IA) | ⭐⭐⭐⭐⭐ |  |    |
+| [12.第四范式NeurIPS 2020：知识图谱嵌入的自动化](https://mp.weixin.qq.com/s/oqvn6GqCkYA_R8ZkQdD1wQ) | ⭐⭐⭐⭐ |  |    |
+| [13.日漫迷有福了！这个系统可以全自动翻译日漫，再也不用啃生肉了](https://mp.weixin.qq.com/s/7wODtbI4EmZl5m_hlAUqBw) | ⭐⭐⭐⭐ |  |    |
+| [14.大幅提升训练性能，字节跳动与清华提出新型分布式DNN训练架构](https://mp.weixin.qq.com/s/300m1CbWEHIr3wEpWlQmGw) | ⭐⭐⭐ |  |    |
 <br>
 
 [👆 <strong>BACK to Contents --> </strong>](#本项目包括)
@@ -156,7 +158,8 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [16.Kaggle X光肺炎检测比赛第二名方案解析 CVPR 2020 Workshop](https://github.com/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/02_%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E8%AE%BA%E6%96%87/%E2%80%8BKaggle%20X%E5%85%89%E8%82%BA%E7%82%8E%E6%A3%80%E6%B5%8B%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%90%8D%E6%96%B9%E6%A1%88%E8%A7%A3%E6%9E%90%20%7C%20CVPR%202020%20Workshop.md) | ⭐⭐⭐⭐ |  |    |
 | [17.给AI一张高清照片，分分钟还你细节满满的3D人体模型，GitHub标星4.4k (在线可玩)](https://mp.weixin.qq.com/s/yDw5k-zVt3YZYZZ-GEVJ3Q) | ⭐⭐⭐⭐⭐ |  |    |
 | [18.滑动窗口也能用于实例分割，陈鑫磊、何恺明等人提出图像分割新范式](https://mp.weixin.qq.com/s/IwMSbixNrb9fW7AuKB79MA) | ⭐⭐⭐⭐⭐ |  |    |
-
+| [19.你真的理解图像处理经典算法 SIFT 吗？最深入、最全面综述：尺度不变特征转换](https://mp.weixin.qq.com/s/_zlsOy2gwajs4BygOKZMyw)  | ⭐⭐⭐ |  |    |
+| [20.不用绿幕也能实时抠图，商汤等提出只需单张图像、单个模型的新方法MODNet](https://mp.weixin.qq.com/s/Z5Fyt0mwnosDKP7cq0TqLA)  | ⭐⭐⭐ |  |    |
 <br>
 
 [👆 <strong>BACK to Contents --> </strong>](#本项目包括)
@@ -180,7 +183,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [10.损失函数的可视化：浅论模型的参数空间与正则](https://github.com/Charmve/PaperWeeklyAI/tree/master/03_Maiwei%20AI%20PaperWeekly) | ⭐⭐⭐ |  |    |
 | [11.深度学习中“消失的梯度”](https://github.com/Charmve/PaperWeeklyAI/tree/master/03_Maiwei%20AI%20PaperWeekly) | ⭐⭐⭐ |  |    |
 | [12.预、自训练之争：谷歌说预训练虽火，但在标注数据上自训练更有效](https://github.com/Charmve/PaperWeeklyAI/tree/master/03_Maiwei%20AI%20PaperWeekly) | ⭐⭐⭐ |  |    |
-
+| [13.YOLOv5的妙用：学习手语，帮助听力障碍群体](https://mp.weixin.qq.com/s/BXn3pV2_S1bdDFliYD1UNQ) | ⭐⭐⭐ |  |  |
 <br>
 
 [👆 <strong>BACK to Contents --> </strong>](#本项目包括)
@@ -201,7 +204,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [07.机器学习第一步，这是一篇手把手的随机森林入门实战](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |  |  |
 | [08.为什么你的模型效果这么差，深度学习调参有哪些技巧？识](https://github.com/Charmve) | ⭐⭐⭐⭐ |  |    |
 | [09.你还在手动调参？自动化深度学习了解一下！(CVPR2020 Tutorial)](https://github.com/Charmve) | ⭐⭐⭐⭐ |  |    |
-
+| [10.从39个kaggle竞赛中总结出来的图像分割的Tips和Tricks](https://mp.weixin.qq.com/s/BNHjsYOYSkB6wgSUHC7gnA) | ⭐⭐⭐⭐⭐ |  |    |
 <br>
 
 [👆 <strong>BACK to Contents --> </strong>](#本项目包括)
