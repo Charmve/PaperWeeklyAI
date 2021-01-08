@@ -862,7 +862,7 @@ result.to_csv("/Users/HanXiaoyang/Titanic_data/logistic_regression_bagging_predi
      <img src="https://img-blog.csdnimg.cn/20200224183312714.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtdmU=,size_16,color_FFFFFF,t_70">
 </div>
 <p align=center>
-     △微信扫一扫关注「迈微电子研发社」公众号
+     △微信扫一扫关注「迈微AI研习社」公众号
 </p>
 
 <br>
@@ -892,7 +892,7 @@ result.to_csv("/Users/HanXiaoyang/Titanic_data/logistic_regression_bagging_predi
   <img src="https://img-blog.csdnimg.cn/20200225182015550.png">
 </div>
 <p align=center>
-     △扫码加入「迈微电子研发社」学习辅导群
+     △扫码加入「迈微AI研习社」学习辅导群
 </p>
 
 <div align=center>
