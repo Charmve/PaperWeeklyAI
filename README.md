@@ -12,9 +12,25 @@
 
 # PaperWeeklyAI
 
-
 Studying papers in the fields of computer vision, NLP, and machine learning algorithms every week.
 
+### Table of Content
+- [📚 Open source eBooks](https://github.com/Charmve/PaperWeeklyAI/tree/master/00_GuideBooksPDF(English%2BChinese))
+- [📝 Classic Paper Top10](https://github.com/Charmve/PaperWeeklyAI/tree/master/01_AI%E8%AE%BA%E6%96%87%E5%BF%85%E8%AF%BB%E7%AF%87%E7%9B%AE10%E7%AF%87)
+- [📡 PaperWeeklyAI @MaiweiAI Lab](https://github.com/Charmve/PaperWeeklyAI/tree/master/03_Maiwei%20AI%20PaperWeekly)
+    - [📣 NLP (Natural Language Processing)](#nlp论文研读)
+    - [📷 CV (Computer Vision)](#计算机视觉论文)
+    - [⌛ Algorithm Study](#机器学习深度学习理论)
+    - [🔨 Machine Learning in Action](#机器学习实战篇)
+    - [🔍 CV (Computer Vision)](#ai进阶指南)
+    - [🔮 Advanced Machine Learning](#ai进阶指南)
+    - [🚀 Explore the Future](#迈微ai前沿精选)
+- [🎓 Path to Machine Learning]()
+    - [🎁 OpenCS-Courses](https://github.com/Charmve/OpenCS-Courses)
+    - [👀 ML-Surveys](https://github.com/Charmve/PaperWeeklyAI/tree/master/06_ML-Surveys)
+    - [🚀 Applied-ML](https://github.com/Charmve/PaperWeeklyAI/tree/master/04_AppliedML)
+- [👻 Image Segmentation](https://github.com/Charmve/PaperWeeklyAI/tree/master/05_Image%20Segmentation)
+- [🍮 Community](#-community)
 
 <p align="center">
   <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://img.shields.io/badge/blog-Charmve-blue" alt="css"></a>
@@ -40,24 +56,6 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 </p>
 
 <br>
-
-### Table of Content
-- [📚 Open source eBooks](https://github.com/Charmve/PaperWeeklyAI/tree/master/00_GuideBooksPDF(English%2BChinese))
-- [📝 Classic Paper Top10](https://github.com/Charmve/PaperWeeklyAI/tree/master/01_AI%E8%AE%BA%E6%96%87%E5%BF%85%E8%AF%BB%E7%AF%87%E7%9B%AE10%E7%AF%87)
-- [📡 PaperWeeklyAI @MaiweiAI Lab](https://github.com/Charmve/PaperWeeklyAI/tree/master/03_Maiwei%20AI%20PaperWeekly)
-    - [📣 NLP (Natural Language Processing)](#nlp论文研读)
-    - [📷 CV (Computer Vision)](#计算机视觉论文)
-    - [⌛ Algorithm Study](#机器学习深度学习理论)
-    - [🔨 Machine Learning in Action](#机器学习实战篇)
-    - [🔍 CV (Computer Vision)](#ai进阶指南)
-    - [🔮 Advanced Machine Learning](#ai进阶指南)
-    - [🚀 Explore the Future](#迈微ai前沿精选)
-- [🎓 Path to Machine Learning]()
-    - [🎁 OpenCS-Courses](https://github.com/Charmve/OpenCS-Courses)
-    - [👀 ML-Surveys](https://github.com/Charmve/PaperWeeklyAI/tree/master/06_ML-Surveys)
-    - [🚀 Applied-ML](https://github.com/Charmve/PaperWeeklyAI/tree/master/04_AppliedML)
-- [👻 Image Segmentation](https://github.com/Charmve/PaperWeeklyAI/tree/master/05_Image%20Segmentation)
-- [🍮 Community](#-community)
 
 ### 本项目包括
 
