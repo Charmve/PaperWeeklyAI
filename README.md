@@ -10,7 +10,7 @@
     </pre>
 </div>
 
-# PaperWeeklyAI
+# PaperWeeklyAI - 迈微AI研习社
 
 Studying papers in the fields of computer vision, NLP, and machine learning algorithms every week.
 
