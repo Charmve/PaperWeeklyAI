@@ -25,7 +25,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
     紧跟前沿科研动态，每周研读论文！
 </p>
 
-<div align=center><img src="./MaiweiAI-com.png" height="330" width="330"></div>
+<div align=center><img src="../MaiweiAI-com.png" height="330" width="330"></div>
 
 <div align=center size = 3><b>△微信扫一扫，关注我</b></div>
 <br>
