@@ -280,7 +280,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 
 Wellcome all you who interest in machine learning to join us. Contact e-mail: yidazhang[#]gmail[dot]com with your letter/CV.
 
-Donating to help me continue working on this project. <a href="https://ko-fi.com/charmve"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Buy%20Me%20a%20Coffee&amp;logo=ko-fi&amp;style=social" alt="Buy Me a Coffee"/></a>
+Donating to help me continue working on this project. 
 
 <a href="https://www.buymeacoffee.com/Charmve" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
