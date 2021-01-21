@@ -263,7 +263,6 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 | [13.微软获GPT-3独家授权，可访问底层代码，Open AI：API用户可继续使用](https://mp.weixin.qq.com/s/I8-_05xHTOKXRNUKfssMJg) | ⭐⭐⭐⭐ |  |    |
 | [14.黑科技DeepFake检测方法：利用心跳做信号，还能「揪出」造假模型](https://mp.weixin.qq.com/s/es0kKbWqclhfEdFL5w8_pg) | ⭐⭐⭐⭐ |  |    |
 
-<br>
 
 [👆 <strong>BACK to Contents --> </strong>](#本项目包括)
 
@@ -280,7 +279,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 
 Wellcome all you who interest in machine learning to join us. Contact e-mail: yidazhang[#]gmail[dot]com with your letter/CV.
 
-Donating to help me continue working on this project. 
+Or donating to help me continue working on this project. 
 
 <a href="https://www.buymeacoffee.com/Charmve" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
