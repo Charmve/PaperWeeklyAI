@@ -266,7 +266,6 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 
 [👆 <strong>BACK to Contents --> </strong>](#本项目包括)
 
-<br>
 
 ## 🍮 Community
 - Github <a href="https://github.com/Charmve/AccANN/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/AccANN/issues" target="_blank">issues 💭</a>
@@ -275,7 +274,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 - WeChat Group：公众号内回复`加群`即可
 
 
-## Join us
+## 🏡 Join us
 
 Wellcome all you who interest in machine learning to join us. Contact e-mail: yidazhang[#]gmail[dot]com with your letter/CV.
 
