@@ -274,7 +274,18 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 
 - QQ Group: 1042054445 迈微机器学习交流群
 - WeChat Group：公众号内回复`加群`即可
-- Email: yidazhang#gmail.com 
+
+
+## Join us
+
+Wellcome all you who interest in machine learning to join us. Contact e-mail: yidazhang[#]gmail[dot]com with your letter/CV.
+
+Donating to help me continue working on this project. <a href="https://ko-fi.com/charmve"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Buy%20Me%20a%20Coffee&amp;logo=ko-fi&amp;style=social" alt="Buy Me a Coffee"/></a>
+
+<a href="https://www.buymeacoffee.com/Charmve" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<a href="https://www.paypal.com/paypalme/Charmve"><img src="https://img.shields.io/badge/💖%20Donate-PayPal-blue" alt="Donate with Paypal"></a> 
+<a href="https://charmve.github.io/sponsor.png"><img src="https://img.shields.io/badge/💖%20Donate-WeChat-green" alt="Donate with WeChat"></a>
 
 <br>
 想要获得更多精彩内容，请关注微信公众号：<b>迈微AI研习社</b><br>
