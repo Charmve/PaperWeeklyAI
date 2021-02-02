@@ -17,7 +17,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 <p align="center">
   <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://img.shields.io/badge/blog-Charmve-blue" alt="Blog"></a>
   <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://www.geekxh.com/trending.svg?label=html" alt="Trending"></a>
-  <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/github/stars/geekxh/hello-algorithm.svg" alt="Star"></a>
+  <a href="https://github.com/Charmve"><img src="https://img.shields.io/github/stars/geekxh/hello-algorithm.svg" alt="Star"></a>
 </p>
 <p align="center">
     紧跟前沿科研动态，每周研读论文！
