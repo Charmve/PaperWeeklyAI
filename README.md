@@ -30,7 +30,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 
 从今年三月份开始，我将开源的方向调整为机器学习、计算机视觉、深度学习、NLP、AI前沿技术动态的相关文章发布，从入门学习指导（我自己的机器学习路线总结，入过很多坑）到现在的顶会论文总结、前沿论文研读。公众号主页底部有菜单分类。
 
-<div align=center><img src="https://github.com/ChromeWei/PaperWeeklyAI/blob/master/Menu-MaiweiAI.jpg?raw=true" ></div>
+<div align=center><img src="Menu-MaiweiAI.jpg?raw=true" ></div>
 
 <p align="center">
     <b>公众号菜单栏分类</b>
@@ -43,11 +43,11 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 <table>
   <thead>
     <tr>
-      <th style="text-align: left">👀 <a href="https://github.com/ChromeWei/PaperWeeklyAI">迈微论文研读</a></th>
-      <th style="text-align: left">🐒 <a href="https://github.com/ChromeWei/PaperWeeklyAI/tree/master/00_GuideBooksPDF(English%2BChinese)">AI进阶指南</a></th>
-      <th style="text-align: left">📚 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC">超清电子书10000本</a></th>
-      <th style="text-align: left">🐒 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F">计算机IT必备</a></th>
-      <th style="text-align: left" colspan="2">🚀 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87">大厂面经汇总指南</a></th>
+      <th style="text-align: left">👀 <a href="https://github.com/Charmve/PaperWeeklyAI">迈微论文研读</a></th>
+      <th style="text-align: left">🐒 <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/00_GuideBooksPDF(English%2BChinese)">AI进阶指南</a></th>
+      <th style="text-align: left">📚 <a href="https://github.com/Charmve/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC">超清电子书10000本</a></th>
+      <th style="text-align: left">🐒 <a href="https://github.com/Charmve/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F">计算机IT必备</a></th>
+      <th style="text-align: left" colspan="2">🚀 <a href="https://github.com/Charmve/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87">大厂面经汇总指南</a></th>
       <!--水平跨列的表格-->
     </tr>
   </thead>
@@ -58,7 +58,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
       <td style="text-align: left">🐒 <a href="https://github.com/Charmve/hello-algorithm/tree/master/%E8%B6%85%E6%B8%85%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE100%E5%BC%A0">超清思维导图集锦</a></td>
       <td style="text-align: left">👺 <a href="https://github.com/Charmve/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F">专栏：学习os</a></td>
       <td style="text-align: left">🍏 <a href="https://github.com/Charmve/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/C%26C%2B%2B">面试：C&amp;C++</a></td>
-      <td>🍇 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Java">面试：Java</a></td>
+      <td>🍇 <a href="https://github.com/Charmve/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Java">面试：Java</a></td>
     </tr>
     <tr>
       <td style="text-align: left">🍐 <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/03_Maiwei%20AI%20PaperWeekly/02_%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E8%AE%BA%E6%96%87">CV顶会</a></td>
@@ -70,10 +70,10 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
     </tr>
     <tr>
       <td style="text-align: left">📡 <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/00_GuideBooksPDF(English%2BChinese)/05_AI%E8%AE%BA%E6%96%87%E5%BF%85%E8%AF%BB%E7%AF%87%E7%9B%AE10%E7%AF%87">AI论文必读篇目10篇</a></td>
-      <td style="text-align: left">📚 <a href="https://github.com/ChromeWei/PaperWeeklyAI/tree/master/00_GuideBooksPDF(English%2BChinese)">机器学习/Linux电子书</a></td>
+      <td style="text-align: left">📚 <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/00_GuideBooksPDF(English%2BChinese)">机器学习/Linux电子书</a></td>
       <td style="text-align: left">📝 <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/00_GuideBooksPDF(English%2BChinese)">电子书：编程与算法</a></td>
-      <td style="text-align: left">📺 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Linux">专栏：学习linux</a></td>
-      <td style="text-align: left">🚀 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Python">面试：Python</a></td>
+      <td style="text-align: left">📺 <a href="https://github.com/Charmve/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Linux">专栏：学习linux</a></td>
+      <td style="text-align: left">🚀 <a href="https://github.com/Charmve/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Python">面试：Python</a></td>
       <td style="text-align: left">✏️ <a href="https://github.com/Charmve/LeetCode4FLAG">刷题：LeetCode4FLAG</a></td>
     </tr>
     <tr>
