@@ -28,9 +28,9 @@
 ### CS
 #### OPERATE 操作系统
 
-- 操作系统OperatingSystems.8th Edition [[view online] | [download](https://pan.baidu.com/s/1AnVAUSZW44RENRn9-6rGAQ)  ``提取码：rdfr``]
+- 操作系统OperatingSystems.8th Edition [view online | [download](https://pan.baidu.com/s/1AnVAUSZW44RENRn9-6rGAQ)  ``提取码：rdfr``]
 
-- 深入理解计算机系统（原书第3版）.[美]Randal E.Bryant(详细书签)    [[view online] | [download](https://pan.baidu.com/s/1i3oB7vMzeAXzOLFAUKOtlw) ``提取码：vn4t``]
+- 深入理解计算机系统（原书第3版）.[美]Randal E.Bryant(详细书签)    [view online | [download](https://pan.baidu.com/s/1i3oB7vMzeAXzOLFAUKOtlw) ``提取码：vn4t``]
 
 - Randal E. Bryant, David R. O’Hallaron - Computer Systems. A Programmer’s Perspective [3rd ed.] (2016, Pearson)  [[view online](https://github.com/Charmve/PaperWeeklyAI/blob/master/00_GuideBooksPDF(English%2BChinese)/04_Network%26Linux%E7%BD%91%E7%BB%9C%E4%B8%8ELinux/Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D%20(2016%2C%20Pearson)) | [download](https://github.com/Charmve/PaperWeeklyAI/raw/master/00_GuideBooksPDF(English%2BChinese)/04_Network%26Linux%E7%BD%91%E7%BB%9C%E4%B8%8ELinux/Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D%20(2016%2C%20Pearson))]
 
@@ -38,17 +38,17 @@
 
 - Ata Elahi - Computer Systems. Digital Design, Fundamentals of Computer Architecture and Assembly Language (2018, Springer).pdf    [[view online](https://github.com/Charmve/PaperWeeklyAI/blob/master/00_GuideBooksPDF(English%2BChinese)/04_Network%26Linux%E7%BD%91%E7%BB%9C%E4%B8%8ELinux/Ata%20Elahi%20-%20Computer%20Systems.%20Digital%20Design%2C%20Fundamentals%20of%20Computer%20Architecture%20and%20Assembly%20Language%20(2018%2C%20Springer).pdf) | [download](https://github.com/Charmve/PaperWeeklyAI/raw/master/00_GuideBooksPDF(English%2BChinese)/04_Network%26Linux%E7%BD%91%E7%BB%9C%E4%B8%8ELinux/Ata%20Elahi%20-%20Computer%20Systems.%20Digital%20Design%2C%20Fundamentals%20of%20Computer%20Architecture%20and%20Assembly%20Language%20(2018%2C%20Springer).pdf)]
 
-- Linux程序设计(第4版)   [[view online] | [download](https://pan.baidu.com/s/1nEQPcjQ1GT5J005pa2zyRQ) ``提取码：7ddr``]
+- Linux程序设计(第4版)   [view online | [download](https://pan.baidu.com/s/1nEQPcjQ1GT5J005pa2zyRQ) ``提取码：7ddr``]
 
-- Linux高级程序设计  [[view online] | [download](https://pan.baidu.com/s/1n7fbSsDVYmXFuPmbrZt3Hg) ``提取码：k5bw``]
+- Linux高级程序设计  [view online | [download](https://pan.baidu.com/s/1n7fbSsDVYmXFuPmbrZt3Hg) ``提取码：k5bw``]
 
-- 鸟哥的Linux私房菜  [[view online] | [download](https://pan.baidu.com/s/1MDPidezXCxuxvWFWJ6-52w)  ``提取码：s448``]
+- 鸟哥的Linux私房菜  [view online | [download](https://pan.baidu.com/s/1MDPidezXCxuxvWFWJ6-52w)  ``提取码：s448``]
 
 - Linux_Kernel_Development_3rd_Edition.pdf    [[view online](https://github.com/Charmve/PaperWeeklyAI/blob/master/00_GuideBooksPDF(English%2BChinese)/04_Network%26Linux%E7%BD%91%E7%BB%9C%E4%B8%8ELinux/Linux_Kernel_Development_3rd_Edition.pdf) | [download](https://github.com/Charmve/PaperWeeklyAI/raw/master/00_GuideBooksPDF(English%2BChinese)/04_Network%26Linux%E7%BD%91%E7%BB%9C%E4%B8%8ELinux/Linux_Kernel_Development_3rd_Edition.pdf)]
 
-- 图解设计模式   [[view online] | [download](https://pan.baidu.com/s/1Oaqda7luLE6Zz9aap53vvg) ``提取码：s2ni``]
+- 图解设计模式   [view online | [download](https://pan.baidu.com/s/1Oaqda7luLE6Zz9aap53vvg) ``提取码：s2ni``]
 
-- 架构之美   [[view online] | [download](https://pan.baidu.com/s/16WcoEv1Gml3e6RHf55OyWw) ``提取码：39n1``]
+- 架构之美   [view online | [download](https://pan.baidu.com/s/16WcoEv1Gml3e6RHf55OyWw) ``提取码：39n1``]
 
 - 编程珠玑(Programming Pearls) [[view online](https://github.com/Charmve/PaperWeeklyAI/blob/master/00_GuideBooksPDF(English%2BChinese)/02_Programing%26Algorithm%E7%BC%96%E7%A8%8B%E4%B8%8E%E7%AE%97%E6%B3%95/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91(Programming%20Pearls).pdf) | [download](https://github.com/Charmve/PaperWeeklyAI/raw/master/00_GuideBooksPDF(English%2BChinese)/02_Programing%26Algorithm%E7%BC%96%E7%A8%8B%E4%B8%8E%E7%AE%97%E6%B3%95/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91(Programming%20Pearls).pdf)]
 
