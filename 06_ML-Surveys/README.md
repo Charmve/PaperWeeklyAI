@@ -6,7 +6,7 @@ It's hard to keep up with the latest and greatest in machine learning. Here's a 
 
 Figuring out how to implement your ML project? Learn how other organizations did it 👉[`applied-ml`](https://github.com/Charmve/PaperWeeklyAI/tree/master/04_AppliedML)
 
-<img src="../MaiweiAI-com.png" align="right" height="330" width="330" alt="迈微AI研习社">
+<img src="../MaiweiAI-com.png" align="right" height="300" width="300" alt="迈微AI研习社">
 
 **Table of Contents**
 
