@@ -5,6 +5,8 @@ Curated papers, articles, and blogs on **data science & machine learning in prod
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) [![Summaries](https://img.shields.io/badge/summaries-in%20tweets-%2300acee.svg?style=flat)](https://twitter.com/eugeneyan/status/1288236455228137473) ![HitCount](http://hits.dwyl.com/eugeneyan/applied-ml.svg)
 
+<img src="../MaiweiAI-com.png" align="right" height="330" width="330" alt="迈微AI研习社">
+
 Figuring out how to implement your ML project? Learn how other organizations did it:
 
 - **How** the problem is framed 🔎(e.g., personalization as recsys vs. search vs. sequences)
