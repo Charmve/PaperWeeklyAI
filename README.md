@@ -268,7 +268,7 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 
 
 ## 🍮 Community
-- Github <a href="https://github.com/Charmve/AccANN/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/AccANN/issues" target="_blank">issues 💭</a>
+- Github <a href="https://github.com/Charmve/PaperWeeklyAI/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/PaperWeeklyAI/issues" target="_blank">issues 💭</a>
 
 - QQ Group: 1042054445 迈微机器学习交流群
 - WeChat Group：公众号内回复`加群`即可
