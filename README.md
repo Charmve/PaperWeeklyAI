@@ -25,7 +25,8 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 
 <div align=center><img src="./MaiweiAI-com.png" height="330" width="330"></div>
 
-<div align=center size = 3><b>△微信扫一扫，关注我<br>公众号内回复“电子书”免费获取PDF</b></div>
+<div align=center size = 2><b>△微信扫一扫，关注我</b></div>
+<div align=center size = 3><b>公众号内回复“电子书”免费获取PDF</b></div>
 <br>
 
 从今年三月份开始，我将开源的方向调整为机器学习、计算机视觉、深度学习、NLP、AI前沿技术动态的相关文章发布，从入门学习指导（我自己的机器学习路线总结，入过很多坑）到现在的顶会论文总结、前沿论文研读。公众号主页底部有菜单分类。
