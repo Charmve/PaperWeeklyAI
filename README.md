@@ -12,7 +12,7 @@
 
 # PaperWeeklyAI - 迈微AI研习社
 
-Studying papers in the fields of computer vision, NLP, and machine learning algorithms every week.
+作者系CSDN博客专家，主要分享机器学习算法、计算机视觉等相关内容，每周研读顶会论文，持续关注前沿技术动态。底部有菜单分类，欢迎follow
 
 <p align="center">
   <a href="https://charmve.blog.csdn.net/" target="_blank"><img src="https://img.shields.io/badge/blog-Charmve-blue" alt="Blog"></a>
@@ -271,8 +271,8 @@ Studying papers in the fields of computer vision, NLP, and machine learning algo
 ## 🍮 Community
 - Github <a href="https://github.com/Charmve/PaperWeeklyAI/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/PaperWeeklyAI/issues" target="_blank">issues 💭</a>
 
-- QQ Group: 1042054445 迈微机器学习交流群
-- WeChat Group：公众号内回复`加群`即可
+- QQ 群: 1042054445 迈微机器学习交流群
+- 微信群：公众号内回复`加群`即可
 
 
 ## 🏡 Join us
