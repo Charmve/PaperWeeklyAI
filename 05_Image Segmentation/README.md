@@ -250,11 +250,10 @@ FCN是图像分割领域里程碑式论文。作为语义分割的开山之作�
                             <b>   Surface Defect Detection: Paper & dataset</b>
 			</font>	    
 			<font size="3">
-			<br>
-			<br>
 			<br><br> 📈 Constantly summarizing open source dataset and critical papers in the field of surface defect research which are of great importance.  
 		        <br>NEU-CLS, elpv-dataset, KolektorSDD, DeepPCB, AITEX, DAGM 2007, Cracks on the surface of the construction, Magnetic Tile, RSDDs Kylberg Texture, etc.
-                        <ul class="list-inline">
+                        <br>
+		        <ul class="list-inline">
                             <a class="github-button"
                                 href="https://github.com/Charmve/Surface-Defect-Detection"
                                 data-icon="octicon-star" data-show-count="true"
