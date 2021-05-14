@@ -209,7 +209,7 @@
 
 | Title | 推荐指数 | 推荐理由 | 时间 |
 |   --- |       ---|       ---|  ---|
-| [01.机器学习实战：逻辑回归应用之“Kaggle房价预测”](https://github.com/Charmve/PaperWeeklyAI/03_Maiwei%20AI%20PaperWeekly/04_机器学习实战篇/house_price_predication.ipynb) | ⭐⭐⭐⭐|  |  |
+| [01.机器学习实战：逻辑回归应用之“Kaggle房价预测”](https://colab.research.google.com/github/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/04_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AF%87/house_price_predication.ipynb) | ⭐⭐⭐⭐|  |  |
 | [02.机器学习实战：逻辑回归应用之“Kaggle泰坦尼克之灾”](https://github.com/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/04_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AF%87/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%20%7C%20%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E5%BA%94%E7%94%A8%E4%B9%8B%E2%80%9CKaggle%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E4%B9%8B%E7%81%BE%E2%80%9D.md)| ⭐⭐⭐⭐⭐ |  |  |     
 | [03.PyTorch实战：使用卷积神经网络对CIFAR10图片进行分类（附源码）](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐⭐ |   |  |
 | [04.表情识别FER：基于深度学习的人脸表情识别系统（Keras）](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |   |   |
