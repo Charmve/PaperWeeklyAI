@@ -188,11 +188,11 @@
 | [01.机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)分类算法原理讲解](https://github.com/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/03_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E4%B9%8B%E2%80%94%E2%80%94K%E6%9C%80%E8%BF%91%E9%82%BB(k-Nearest%20Neighbor%EF%BC%8CKNN)%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E8%AE%B2%E8%A7%A3.md) | ⭐⭐⭐⭐⭐|  |  |
 | [02.机器学习算法之——隐马尔可夫模型(Hidden Markov Models,HMM)](https://github.com/Charmve/PaperWeeklyAI)| ⭐⭐⭐⭐ |  |  |     
 | [03.机器学习算法之——K最近邻(k-Nearest Neighbor，KNN)分类算法Python实现](https://github.com/Charmve/PaperWeeklyAI/blob/master/03_Maiwei%20AI%20PaperWeekly/03_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%26%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E4%B9%8B%E2%80%94%E2%80%94K%E6%9C%80%E8%BF%91%E9%82%BB(k-Nearest%20Neighbor%EF%BC%8CKNN)%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95Python%E5%AE%9E%E7%8E%B0.md) | ⭐⭐⭐ |   |  |
-| [04.机器学习算法之——走进卷积神经网络(CNN)](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |   |   |
+| [04.机器学习算法之——走进卷积神经网络(CNN)](https://github.com/Charmve/computer-vision-in-action/tree/main/docs/1_%E7%90%86%E8%AE%BA%E7%AF%87/chapter2_CNN/chapter2_CNN.md) | ⭐⭐⭐ |   |   |
 | [05.机器学习算法之——逻辑回归（Logistic Regression）](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |   |   |
 | [06.暴力方法将成过去？UC伯克利等新研究返璞归真，探索网络的本质](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐⭐ |  |  |
-| [07.机器学习中的最优化算法总结](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |  |  |
-| [08.超越标准 GNN ！DeepMind、谷歌提出图匹配网络(ICML最新论文)](https://github.com/Charmve/PaperWeeklyAI) | ⭐⭐⭐ |  |    |
+| [07.机器学习中的最优化算法总结](https://blog.csdn.net/Charmve/article/details/106341911) | ⭐⭐⭐ |  |  |
+| [08.超越标准 GNN ！DeepMind、谷歌提出图匹配网络(ICML最新论文)](https://blog.csdn.net/Charmve/article/details/113830377) | ⭐⭐⭐ |  |    |
 | [09.机器学习算法常用评价指标总结](https://github.com/Charmve/PaperWeeklyAI/tree/master/03_Maiwei%20AI%20PaperWeekly) | ⭐⭐⭐⭐ |  |    |
 | [10.损失函数的可视化：浅论模型的参数空间与正则](https://github.com/Charmve/PaperWeeklyAI/tree/master/03_Maiwei%20AI%20PaperWeekly) | ⭐⭐⭐ |  |    |
 | [11.深度学习中“消失的梯度”](https://github.com/Charmve/PaperWeeklyAI/tree/master/03_Maiwei%20AI%20PaperWeekly) | ⭐⭐⭐ |  |    |
